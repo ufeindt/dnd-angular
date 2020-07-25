@@ -1,0 +1,5169 @@
+{
+  "abi-dalzims-horrid-wilting": {
+    "name": "Abi-Dalzim's Horrid Wilting",
+    "link": "https://www.dndbeyond.com/spells/abi-dalzims-horrid-wilting",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 8,
+    "school": "Necromancy"
+  },
+  "absorb-elements": {
+    "name": "Absorb Elements",
+    "link": "https://www.dndbeyond.com/spells/absorb-elements",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "acid-splash": {
+    "name": "Acid Splash",
+    "link": "https://www.dndbeyond.com/spells/acid-splash",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Conjuration"
+  },
+  "aganazzars-scorcher": {
+    "name": "Aganazzar's Scorcher",
+    "link": "https://www.dndbeyond.com/spells/aganazzars-scorcher",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "aid": {
+    "name": "Aid",
+    "link": "https://www.dndbeyond.com/spells/aid",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Abjuration"
+  },
+  "alarm": {
+    "name": "Alarm",
+    "link": "https://www.dndbeyond.com/spells/alarm",
+    "class": [
+      "Ranger",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "alter-self": {
+    "name": "Alter Self",
+    "link": "https://www.dndbeyond.com/spells/alter-self",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "animal-friendship": {
+    "name": "Animal Friendship",
+    "link": "https://www.dndbeyond.com/spells/animal-friendship",
+    "class": [
+      "Bard",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "animal-messenger": {
+    "name": "Animal Messenger",
+    "link": "https://www.dndbeyond.com/spells/animal-messenger",
+    "class": [
+      "Bard",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Enchantment"
+  },
+  "animal-shapes": {
+    "name": "Animal Shapes",
+    "link": "https://www.dndbeyond.com/spells/animal-shapes",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Transmutation"
+  },
+  "animate-dead": {
+    "name": "Animate Dead",
+    "link": "https://www.dndbeyond.com/spells/animate-dead",
+    "class": [
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Necromancy"
+  },
+  "animate-objects": {
+    "name": "Animate Objects",
+    "link": "https://www.dndbeyond.com/spells/animate-objects",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "antilife-shell": {
+    "name": "Antilife Shell",
+    "link": "https://www.dndbeyond.com/spells/antilife-shell",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Abjuration"
+  },
+  "antimagic-field": {
+    "name": "Antimagic Field",
+    "link": "https://www.dndbeyond.com/spells/antimagic-field",
+    "class": [
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Abjuration"
+  },
+  "antipathy/sympathy": {
+    "name": "Antipathy/Sympathy",
+    "link": "https://www.dndbeyond.com/spells/antipathy-sympathy",
+    "class": [
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Enchantment"
+  },
+  "arcane-eye": {
+    "name": "Arcane Eye",
+    "link": "https://www.dndbeyond.com/spells/arcane-eye",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Divination"
+  },
+  "arcane-gate": {
+    "name": "Arcane Gate",
+    "link": "https://www.dndbeyond.com/spells/arcane-gate",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "arcane-lock": {
+    "name": "Arcane Lock",
+    "link": "https://www.dndbeyond.com/spells/arcane-lock",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Abjuration"
+  },
+  "armor-of-agathys": {
+    "name": "Armor of Agathys",
+    "link": "https://www.dndbeyond.com/spells/armor-of-agathys",
+    "class": [
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "arms-of-hadar": {
+    "name": "Arms of Hadar",
+    "link": "https://www.dndbeyond.com/spells/arms-of-hadar",
+    "class": [
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "astral-projection": {
+    "name": "Astral Projection",
+    "link": "https://www.dndbeyond.com/spells/astral-projection",
+    "class": [
+      "Cleric",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Necromancy"
+  },
+  "augury": {
+    "name": "Augury",
+    "link": "https://www.dndbeyond.com/spells/augury",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Divination"
+  },
+  "aura-of-life": {
+    "name": "Aura of Life",
+    "link": "https://www.dndbeyond.com/spells/aura-of-life",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Abjuration"
+  },
+  "aura-of-purity": {
+    "name": "Aura of Purity",
+    "link": "https://www.dndbeyond.com/spells/aura-of-purity",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Abjuration"
+  },
+  "aura-of-vitality": {
+    "name": "Aura of Vitality",
+    "link": "https://www.dndbeyond.com/spells/aura-of-vitality",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "awaken": {
+    "name": "Awaken",
+    "link": "https://www.dndbeyond.com/spells/awaken",
+    "class": [
+      "Bard",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "bane": {
+    "name": "Bane",
+    "link": "https://www.dndbeyond.com/spells/bane",
+    "class": [
+      "Bard",
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "banishing-smite": {
+    "name": "Banishing Smite",
+    "link": "https://www.dndbeyond.com/spells/banishing-smite",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Abjuration"
+  },
+  "banishment": {
+    "name": "Banishment",
+    "link": "https://www.dndbeyond.com/spells/banishment",
+    "class": [
+      "Cleric",
+      "Paladin",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Abjuration"
+  },
+  "barkskin": {
+    "name": "Barkskin",
+    "link": "https://www.dndbeyond.com/spells/barkskin",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "beacon-of-hope": {
+    "name": "Beacon of Hope",
+    "link": "https://www.dndbeyond.com/spells/beacon-of-hope",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "beast-bond": {
+    "name": "Beast Bond",
+    "link": "https://www.dndbeyond.com/spells/beast-bond",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Divination"
+  },
+  "beast-sense": {
+    "name": "Beast Sense",
+    "link": "https://www.dndbeyond.com/spells/beast-sense",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Divination"
+  },
+  "bestow-curse": {
+    "name": "Bestow Curse",
+    "link": "https://www.dndbeyond.com/spells/bestow-curse",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Necromancy"
+  },
+  "bigbys-hand": {
+    "name": "Bigby's Hand",
+    "link": "https://www.dndbeyond.com/spells/bigbys-hand",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "blade-barrier": {
+    "name": "Blade Barrier",
+    "link": "https://www.dndbeyond.com/spells/blade-barrier",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Evocation"
+  },
+  "blade-ward": {
+    "name": "Blade Ward",
+    "link": "https://www.dndbeyond.com/spells/blade-ward",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Abjuration"
+  },
+  "bless": {
+    "name": "Bless",
+    "link": "https://www.dndbeyond.com/spells/bless",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "blight": {
+    "name": "Blight",
+    "link": "https://www.dndbeyond.com/spells/blight",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Necromancy"
+  },
+  "blinding-smite": {
+    "name": "Blinding Smite",
+    "link": "https://www.dndbeyond.com/spells/blinding-smite",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "blindness/deafness": {
+    "name": "Blindness/Deafness",
+    "link": "https://www.dndbeyond.com/spells/blindness-deafness",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Necromancy"
+  },
+  "blink": {
+    "name": "Blink",
+    "link": "https://www.dndbeyond.com/spells/blink",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "blur": {
+    "name": "Blur",
+    "link": "https://www.dndbeyond.com/spells/blur",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "bones-of-the-earth": {
+    "name": "Bones of the Earth",
+    "link": "https://www.dndbeyond.com/spells/bones-of-the-earth",
+    "class": [
+      "Druid"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "branding-smite": {
+    "name": "Branding Smite",
+    "link": "https://www.dndbeyond.com/spells/branding-smite",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "burning-hands": {
+    "name": "Burning Hands",
+    "link": "https://www.dndbeyond.com/spells/burning-hands",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "call-lightning": {
+    "name": "Call Lightning",
+    "link": "https://www.dndbeyond.com/spells/call-lightning",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "calm-emotions": {
+    "name": "Calm Emotions",
+    "link": "https://www.dndbeyond.com/spells/calm-emotions",
+    "class": [
+      "Bard",
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Enchantment"
+  },
+  "catapult": {
+    "name": "Catapult",
+    "link": "https://www.dndbeyond.com/spells/catapult",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "catnap": {
+    "name": "Catnap",
+    "link": "https://www.dndbeyond.com/spells/catnap",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Enchantment"
+  },
+  "cause-fear": {
+    "name": "Cause Fear",
+    "link": "https://www.dndbeyond.com/spells/cause-fear",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Necromancy"
+  },
+  "ceremony": {
+    "name": "Ceremony",
+    "link": "https://www.dndbeyond.com/spells/ceremony",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "chain-lightning": {
+    "name": "Chain Lightning",
+    "link": "https://www.dndbeyond.com/spells/chain-lightning",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Evocation"
+  },
+  "chaos-bolt": {
+    "name": "Chaos Bolt",
+    "link": "https://www.dndbeyond.com/spells/chaos-bolt",
+    "class": [
+      "Sorcerer"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "charm-monster": {
+    "name": "Charm Monster",
+    "link": "https://www.dndbeyond.com/spells/charm-monster",
+    "class": [
+      "Bard",
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Enchantment"
+  },
+  "charm-person": {
+    "name": "Charm Person",
+    "link": "https://www.dndbeyond.com/spells/charm-person",
+    "class": [
+      "Bard",
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "chill-touch": {
+    "name": "Chill Touch",
+    "link": "https://www.dndbeyond.com/spells/chill-touch",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Necromancy"
+  },
+  "chromatic-orb": {
+    "name": "Chromatic Orb",
+    "link": "https://www.dndbeyond.com/spells/chromatic-orb",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "circle-of-death": {
+    "name": "Circle of Death",
+    "link": "https://www.dndbeyond.com/spells/circle-of-death",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Necromancy"
+  },
+  "circle-of-power": {
+    "name": "Circle of Power",
+    "link": "https://www.dndbeyond.com/spells/circle-of-power",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Abjuration"
+  },
+  "clairvoyance": {
+    "name": "Clairvoyance",
+    "link": "https://www.dndbeyond.com/spells/clairvoyance",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Divination"
+  },
+  "clone": {
+    "name": "Clone",
+    "link": "https://www.dndbeyond.com/spells/clone",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Necromancy"
+  },
+  "cloud-of-daggers": {
+    "name": "Cloud of Daggers",
+    "link": "https://www.dndbeyond.com/spells/cloud-of-daggers",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Conjuration"
+  },
+  "cloudkill": {
+    "name": "Cloudkill",
+    "link": "https://www.dndbeyond.com/spells/cloudkill",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "color-spray": {
+    "name": "Color Spray",
+    "link": "https://www.dndbeyond.com/spells/color-spray",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Illusion"
+  },
+  "command": {
+    "name": "Command",
+    "link": "https://www.dndbeyond.com/spells/command",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "commune": {
+    "name": "Commune",
+    "link": "https://www.dndbeyond.com/spells/commune",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Divination"
+  },
+  "commune-with-nature": {
+    "name": "Commune with Nature",
+    "link": "https://www.dndbeyond.com/spells/commune-with-nature",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Divination"
+  },
+  "compelled-duel": {
+    "name": "Compelled Duel",
+    "link": "https://www.dndbeyond.com/spells/compelled-duel",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "comprehend-languages": {
+    "name": "Comprehend Languages",
+    "link": "https://www.dndbeyond.com/spells/comprehend-languages",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Divination"
+  },
+  "compulsion": {
+    "name": "Compulsion",
+    "link": "https://www.dndbeyond.com/spells/compulsion",
+    "class": [
+      "Bard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Enchantment"
+  },
+  "cone-of-cold": {
+    "name": "Cone of Cold",
+    "link": "https://www.dndbeyond.com/spells/cone-of-cold",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "confusion": {
+    "name": "Confusion",
+    "link": "https://www.dndbeyond.com/spells/confusion",
+    "class": [
+      "Bard",
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Enchantment"
+  },
+  "conjure-animals": {
+    "name": "Conjure Animals",
+    "link": "https://www.dndbeyond.com/spells/conjure-animals",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "conjure-barrage": {
+    "name": "Conjure Barrage",
+    "link": "https://www.dndbeyond.com/spells/conjure-barrage",
+    "class": [
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "conjure-celestial": {
+    "name": "Conjure Celestial",
+    "link": "https://www.dndbeyond.com/spells/conjure-celestial",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Conjuration"
+  },
+  "conjure-elemental": {
+    "name": "Conjure Elemental",
+    "link": "https://www.dndbeyond.com/spells/conjure-elemental",
+    "class": [
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "conjure-fey": {
+    "name": "Conjure Fey",
+    "link": "https://www.dndbeyond.com/spells/conjure-fey",
+    "class": [
+      "Druid",
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "conjure-minor-elementals": {
+    "name": "Conjure Minor Elementals",
+    "link": "https://www.dndbeyond.com/spells/conjure-minor-elementals",
+    "class": [
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "conjure-volley": {
+    "name": "Conjure Volley",
+    "link": "https://www.dndbeyond.com/spells/conjure-volley",
+    "class": [
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "conjure-woodland-beings": {
+    "name": "Conjure Woodland Beings",
+    "link": "https://www.dndbeyond.com/spells/conjure-woodland-beings",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "contact-other-plane": {
+    "name": "Contact Other Plane",
+    "link": "https://www.dndbeyond.com/spells/contact-other-plane",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Divination"
+  },
+  "contagion": {
+    "name": "Contagion",
+    "link": "https://www.dndbeyond.com/spells/contagion",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Necromancy"
+  },
+  "contingency": {
+    "name": "Contingency",
+    "link": "https://www.dndbeyond.com/spells/contingency",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Evocation"
+  },
+  "continual-flame": {
+    "name": "Continual Flame",
+    "link": "https://www.dndbeyond.com/spells/continual-flame",
+    "class": [
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "control-flames": {
+    "name": "Control Flames",
+    "link": "https://www.dndbeyond.com/spells/control-flames",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "control-water": {
+    "name": "Control Water",
+    "link": "https://www.dndbeyond.com/spells/control-water",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Transmutation"
+  },
+  "control-weather": {
+    "name": "Control Weather",
+    "link": "https://www.dndbeyond.com/spells/control-weather",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Transmutation"
+  },
+  "control-winds": {
+    "name": "Control Winds",
+    "link": "https://www.dndbeyond.com/spells/control-winds",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "counterspell": {
+    "name": "Counterspell",
+    "link": "https://www.dndbeyond.com/spells/counterspell",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "create-bonfire": {
+    "name": "Create Bonfire",
+    "link": "https://www.dndbeyond.com/spells/create-bonfire",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Conjuration"
+  },
+  "create-food-and-water": {
+    "name": "Create Food and Water",
+    "link": "https://www.dndbeyond.com/spells/create-food-and-water",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "create-homunculus": {
+    "name": "Create Homunculus",
+    "link": "https://www.dndbeyond.com/spells/create-homunculus",
+    "class": [
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "create-or-destroy-water": {
+    "name": "Create or Destroy Water",
+    "link": "https://www.dndbeyond.com/spells/create-or-destroy-water",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "create-undead": {
+    "name": "Create Undead",
+    "link": "https://www.dndbeyond.com/spells/create-undead",
+    "class": [
+      "Cleric",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Necromancy"
+  },
+  "creation": {
+    "name": "Creation",
+    "link": "https://www.dndbeyond.com/spells/creation",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Illusion"
+  },
+  "crown-of-madness": {
+    "name": "Crown of Madness",
+    "link": "https://www.dndbeyond.com/spells/crown-of-madness",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Enchantment"
+  },
+  "crown-of-stars": {
+    "name": "Crown of Stars",
+    "link": "https://www.dndbeyond.com/spells/crown-of-stars",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "crusaders-mantle": {
+    "name": "Crusader's Mantle",
+    "link": "https://www.dndbeyond.com/spells/crusaders-mantle",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "cure-wounds": {
+    "name": "Cure Wounds",
+    "link": "https://www.dndbeyond.com/spells/cure-wounds",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "dancing-lights": {
+    "name": "Dancing Lights",
+    "link": "https://www.dndbeyond.com/spells/dancing-lights",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "danse-macabre": {
+    "name": "Danse Macabre",
+    "link": "https://www.dndbeyond.com/spells/danse-macabre",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Necromancy"
+  },
+  "darkness": {
+    "name": "Darkness",
+    "link": "https://www.dndbeyond.com/spells/darkness",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "darkvision": {
+    "name": "Darkvision",
+    "link": "https://www.dndbeyond.com/spells/darkvision",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "dawn": {
+    "name": "Dawn",
+    "link": "https://www.dndbeyond.com/spells/dawn",
+    "class": [
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "daylight": {
+    "name": "Daylight",
+    "link": "https://www.dndbeyond.com/spells/daylight",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger",
+      "Sorcerer"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "death-ward": {
+    "name": "Death Ward",
+    "link": "https://www.dndbeyond.com/spells/death-ward",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Abjuration"
+  },
+  "delayed-blast-fireball": {
+    "name": "Delayed Blast Fireball",
+    "link": "https://www.dndbeyond.com/spells/delayed-blast-fireball",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "demiplane": {
+    "name": "Demiplane",
+    "link": "https://www.dndbeyond.com/spells/demiplane",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Conjuration"
+  },
+  "destructive-wave": {
+    "name": "Destructive Wave",
+    "link": "https://www.dndbeyond.com/spells/destructive-wave",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "detect-evil-and-good": {
+    "name": "Detect Evil and Good",
+    "link": "https://www.dndbeyond.com/spells/detect-evil-and-good",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Divination"
+  },
+  "detect-magic": {
+    "name": "Detect Magic",
+    "link": "https://www.dndbeyond.com/spells/detect-magic",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Divination"
+  },
+  "detect-poison-and-disease": {
+    "name": "Detect Poison and Disease",
+    "link": "https://www.dndbeyond.com/spells/detect-poison-and-disease",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Divination"
+  },
+  "detect-thoughts": {
+    "name": "Detect Thoughts",
+    "link": "https://www.dndbeyond.com/spells/detect-thoughts",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Divination"
+  },
+  "dimension-door": {
+    "name": "Dimension Door",
+    "link": "https://www.dndbeyond.com/spells/dimension-door",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "disguise-self": {
+    "name": "Disguise Self",
+    "link": "https://www.dndbeyond.com/spells/disguise-self",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Illusion"
+  },
+  "disintegrate": {
+    "name": "Disintegrate",
+    "link": "https://www.dndbeyond.com/spells/disintegrate",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "dispel-evil-and-good": {
+    "name": "Dispel Evil and Good",
+    "link": "https://www.dndbeyond.com/spells/dispel-evil-and-good",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Abjuration"
+  },
+  "dispel-magic": {
+    "name": "Dispel Magic",
+    "link": "https://www.dndbeyond.com/spells/dispel-magic",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "dissonant-whispers": {
+    "name": "Dissonant Whispers",
+    "link": "https://www.dndbeyond.com/spells/dissonant-whispers",
+    "class": [
+      "Bard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "divination": {
+    "name": "Divination",
+    "link": "https://www.dndbeyond.com/spells/divination",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Divination"
+  },
+  "divine-favor": {
+    "name": "Divine Favor",
+    "link": "https://www.dndbeyond.com/spells/divine-favor",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "divine-word": {
+    "name": "Divine Word",
+    "link": "https://www.dndbeyond.com/spells/divine-word",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "dominate-beast": {
+    "name": "Dominate Beast",
+    "link": "https://www.dndbeyond.com/spells/dominate-beast",
+    "class": [
+      "Druid",
+      "Sorcerer"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Enchantment"
+  },
+  "dominate-monster": {
+    "name": "Dominate Monster",
+    "link": "https://www.dndbeyond.com/spells/dominate-monster",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Enchantment"
+  },
+  "dominate-person": {
+    "name": "Dominate Person",
+    "link": "https://www.dndbeyond.com/spells/dominate-person",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Enchantment"
+  },
+  "dragons-breath": {
+    "name": "Dragon's Breath",
+    "link": "https://www.dndbeyond.com/spells/dragons-breath",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "drawmijs-instant-summons": {
+    "name": "Drawmij's Instant Summons",
+    "link": "https://www.dndbeyond.com/spells/drawmijs-instant-summons",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "dream": {
+    "name": "Dream",
+    "link": "https://www.dndbeyond.com/spells/dream",
+    "class": [
+      "Bard",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Illusion"
+  },
+  "druid-grove": {
+    "name": "Druid Grove",
+    "link": "https://www.dndbeyond.com/spells/druid-grove",
+    "class": [
+      "Druid"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Abjuration"
+  },
+  "druidcraft": {
+    "name": "Druidcraft",
+    "link": "https://www.dndbeyond.com/spells/druidcraft",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "dust-devil": {
+    "name": "Dust Devil",
+    "link": "https://www.dndbeyond.com/spells/dust-devil",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Conjuration"
+  },
+  "earth-tremor": {
+    "name": "Earth Tremor",
+    "link": "https://www.dndbeyond.com/spells/earth-tremor",
+    "class": [
+      "Bard",
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "earthbind": {
+    "name": "Earthbind",
+    "link": "https://www.dndbeyond.com/spells/earthbind",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "earthquake": {
+    "name": "Earthquake",
+    "link": "https://www.dndbeyond.com/spells/earthquake",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Sorcerer"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Evocation"
+  },
+  "eldritch-blast": {
+    "name": "Eldritch Blast",
+    "link": "https://www.dndbeyond.com/spells/eldritch-blast",
+    "class": [
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "elemental-bane": {
+    "name": "Elemental Bane",
+    "link": "https://www.dndbeyond.com/spells/elemental-bane",
+    "class": [
+      "Druid",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Transmutation"
+  },
+  "elemental-weapon": {
+    "name": "Elemental Weapon",
+    "link": "https://www.dndbeyond.com/spells/elemental-weapon",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "enemies-abound": {
+    "name": "Enemies Abound",
+    "link": "https://www.dndbeyond.com/spells/enemies-abound",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Enchantment"
+  },
+  "enervation": {
+    "name": "Enervation",
+    "link": "https://www.dndbeyond.com/spells/enervation",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Necromancy"
+  },
+  "enhance-ability": {
+    "name": "Enhance Ability",
+    "link": "https://www.dndbeyond.com/spells/enhance-ability",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Sorcerer"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "enlarge/reduce": {
+    "name": "Enlarge/Reduce",
+    "link": "https://www.dndbeyond.com/spells/enlarge-reduce",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "ensnaring-strike": {
+    "name": "Ensnaring Strike",
+    "link": "https://www.dndbeyond.com/spells/ensnaring-strike",
+    "class": [
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "entangle": {
+    "name": "Entangle",
+    "link": "https://www.dndbeyond.com/spells/entangle",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "enthrall": {
+    "name": "Enthrall",
+    "link": "https://www.dndbeyond.com/spells/enthrall",
+    "class": [
+      "Bard",
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Enchantment"
+  },
+  "erupting-earth": {
+    "name": "Erupting Earth",
+    "link": "https://www.dndbeyond.com/spells/erupting-earth",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "etherealness": {
+    "name": "Etherealness",
+    "link": "https://www.dndbeyond.com/spells/etherealness",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Transmutation"
+  },
+  "evards-black-tentacles": {
+    "name": "Evard's Black Tentacles",
+    "link": "https://www.dndbeyond.com/spells/evards-black-tentacles",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "expeditious-retreat": {
+    "name": "Expeditious Retreat",
+    "link": "https://www.dndbeyond.com/spells/expeditious-retreat",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "eyebite": {
+    "name": "Eyebite",
+    "link": "https://www.dndbeyond.com/spells/eyebite",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Necromancy"
+  },
+  "fabricate": {
+    "name": "Fabricate",
+    "link": "https://www.dndbeyond.com/spells/fabricate",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Transmutation"
+  },
+  "faerie-fire": {
+    "name": "Faerie Fire",
+    "link": "https://www.dndbeyond.com/spells/faerie-fire",
+    "class": [
+      "Bard",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "false-life": {
+    "name": "False Life",
+    "link": "https://www.dndbeyond.com/spells/false-life",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Necromancy"
+  },
+  "far-step": {
+    "name": "Far Step",
+    "link": "https://www.dndbeyond.com/spells/far-step",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "fear": {
+    "name": "Fear",
+    "link": "https://www.dndbeyond.com/spells/fear",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Illusion"
+  },
+  "feather-fall": {
+    "name": "Feather Fall",
+    "link": "https://www.dndbeyond.com/spells/feather-fall",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "feeblemind": {
+    "name": "Feeblemind",
+    "link": "https://www.dndbeyond.com/spells/feeblemind",
+    "class": [
+      "Bard",
+      "Druid",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Enchantment"
+  },
+  "feign-death": {
+    "name": "Feign Death",
+    "link": "https://www.dndbeyond.com/spells/feign-death",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Necromancy"
+  },
+  "find-familiar": {
+    "name": "Find Familiar",
+    "link": "https://www.dndbeyond.com/spells/find-familiar",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "find-greater-steed": {
+    "name": "Find Greater Steed",
+    "link": "https://www.dndbeyond.com/spells/find-greater-steed",
+    "class": [
+      "Paladin"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "find-steed": {
+    "name": "Find Steed",
+    "link": "https://www.dndbeyond.com/spells/find-steed",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Conjuration"
+  },
+  "find-the-path": {
+    "name": "Find the Path",
+    "link": "https://www.dndbeyond.com/spells/find-the-path",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Divination"
+  },
+  "find-traps": {
+    "name": "Find Traps",
+    "link": "https://www.dndbeyond.com/spells/find-traps",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Divination"
+  },
+  "finger-of-death": {
+    "name": "Finger of Death",
+    "link": "https://www.dndbeyond.com/spells/finger-of-death",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Necromancy"
+  },
+  "fire-bolt": {
+    "name": "Fire Bolt",
+    "link": "https://www.dndbeyond.com/spells/fire-bolt",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "fire-shield": {
+    "name": "Fire Shield",
+    "link": "https://www.dndbeyond.com/spells/fire-shield",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "fire-storm": {
+    "name": "Fire Storm",
+    "link": "https://www.dndbeyond.com/spells/fire-storm",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Sorcerer"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "fireball": {
+    "name": "Fireball",
+    "link": "https://www.dndbeyond.com/spells/fireball",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "flame-arrows": {
+    "name": "Flame Arrows",
+    "link": "https://www.dndbeyond.com/spells/flame-arrows",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "flame-blade": {
+    "name": "Flame Blade",
+    "link": "https://www.dndbeyond.com/spells/flame-blade",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "flame-strike": {
+    "name": "Flame Strike",
+    "link": "https://www.dndbeyond.com/spells/flame-strike",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "flaming-sphere": {
+    "name": "Flaming Sphere",
+    "link": "https://www.dndbeyond.com/spells/flaming-sphere",
+    "class": [
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Conjuration"
+  },
+  "flesh-to-stone": {
+    "name": "Flesh to Stone",
+    "link": "https://www.dndbeyond.com/spells/flesh-to-stone",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "fly": {
+    "name": "Fly",
+    "link": "https://www.dndbeyond.com/spells/fly",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "fog-cloud": {
+    "name": "Fog Cloud",
+    "link": "https://www.dndbeyond.com/spells/fog-cloud",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "forbiddance": {
+    "name": "Forbiddance",
+    "link": "https://www.dndbeyond.com/spells/forbiddance",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Abjuration"
+  },
+  "forcecage": {
+    "name": "Forcecage",
+    "link": "https://www.dndbeyond.com/spells/forcecage",
+    "class": [
+      "Bard",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "foresight": {
+    "name": "Foresight",
+    "link": "https://www.dndbeyond.com/spells/foresight",
+    "class": [
+      "Bard",
+      "Druid",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Divination"
+  },
+  "freedom-of-movement": {
+    "name": "Freedom of Movement",
+    "link": "https://www.dndbeyond.com/spells/freedom-of-movement",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Abjuration"
+  },
+  "friends": {
+    "name": "Friends",
+    "link": "https://www.dndbeyond.com/spells/friends",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Enchantment"
+  },
+  "frostbite": {
+    "name": "Frostbite",
+    "link": "https://www.dndbeyond.com/spells/frostbite",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "gaseous-form": {
+    "name": "Gaseous Form",
+    "link": "https://www.dndbeyond.com/spells/gaseous-form",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "gate": {
+    "name": "Gate",
+    "link": "https://www.dndbeyond.com/spells/gate",
+    "class": [
+      "Cleric",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Conjuration"
+  },
+  "geas": {
+    "name": "Geas",
+    "link": "https://www.dndbeyond.com/spells/geas",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Enchantment"
+  },
+  "gentle-repose": {
+    "name": "Gentle Repose",
+    "link": "https://www.dndbeyond.com/spells/gentle-repose",
+    "class": [
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Necromancy"
+  },
+  "giant-insect": {
+    "name": "Giant Insect",
+    "link": "https://www.dndbeyond.com/spells/giant-insect",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Transmutation"
+  },
+  "glibness": {
+    "name": "Glibness",
+    "link": "https://www.dndbeyond.com/spells/glibness",
+    "class": [
+      "Bard",
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Transmutation"
+  },
+  "globe-of-invulnerability": {
+    "name": "Globe of Invulnerability",
+    "link": "https://www.dndbeyond.com/spells/globe-of-invulnerability",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Abjuration"
+  },
+  "glyph-of-warding": {
+    "name": "Glyph of Warding",
+    "link": "https://www.dndbeyond.com/spells/glyph-of-warding",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "goodberry": {
+    "name": "Goodberry",
+    "link": "https://www.dndbeyond.com/spells/goodberry",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "grasping-vine": {
+    "name": "Grasping Vine",
+    "link": "https://www.dndbeyond.com/spells/grasping-vine",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "grease": {
+    "name": "Grease",
+    "link": "https://www.dndbeyond.com/spells/grease",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "greater-invisibility": {
+    "name": "Greater Invisibility",
+    "link": "https://www.dndbeyond.com/spells/greater-invisibility",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Illusion"
+  },
+  "greater-restoration": {
+    "name": "Greater Restoration",
+    "link": "https://www.dndbeyond.com/spells/greater-restoration",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Abjuration"
+  },
+  "guardian-of-faith": {
+    "name": "Guardian of Faith",
+    "link": "https://www.dndbeyond.com/spells/guardian-of-faith",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "guardian-of-nature": {
+    "name": "Guardian of Nature",
+    "link": "https://www.dndbeyond.com/spells/guardian-of-nature",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Transmutation"
+  },
+  "guards-and-wards": {
+    "name": "Guards and Wards",
+    "link": "https://www.dndbeyond.com/spells/guards-and-wards",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Abjuration"
+  },
+  "guidance": {
+    "name": "Guidance",
+    "link": "https://www.dndbeyond.com/spells/guidance",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Divination"
+  },
+  "guiding-bolt": {
+    "name": "Guiding Bolt",
+    "link": "https://www.dndbeyond.com/spells/guiding-bolt",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "gust": {
+    "name": "Gust",
+    "link": "https://www.dndbeyond.com/spells/gust",
+    "class": [],
+    "source": "xgte",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "gust-of-wind": {
+    "name": "Gust of Wind",
+    "link": "https://www.dndbeyond.com/spells/gust-of-wind",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "hail-of-thorns": {
+    "name": "Hail of Thorns",
+    "link": "https://www.dndbeyond.com/spells/hail-of-thorns",
+    "class": [
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "hallow": {
+    "name": "Hallow",
+    "link": "https://www.dndbeyond.com/spells/hallow",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "hallucinatory-terrain": {
+    "name": "Hallucinatory Terrain",
+    "link": "https://www.dndbeyond.com/spells/hallucinatory-terrain",
+    "class": [
+      "Bard",
+      "Druid",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Illusion"
+  },
+  "harm": {
+    "name": "Harm",
+    "link": "https://www.dndbeyond.com/spells/harm",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Necromancy"
+  },
+  "haste": {
+    "name": "Haste",
+    "link": "https://www.dndbeyond.com/spells/haste",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "heal": {
+    "name": "Heal",
+    "link": "https://www.dndbeyond.com/spells/heal",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Evocation"
+  },
+  "healing-spirit": {
+    "name": "Healing Spirit",
+    "link": "https://www.dndbeyond.com/spells/healing-spirit",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Conjuration"
+  },
+  "healing-word": {
+    "name": "Healing Word",
+    "link": "https://www.dndbeyond.com/spells/healing-word",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "heat-metal": {
+    "name": "Heat Metal",
+    "link": "https://www.dndbeyond.com/spells/heat-metal",
+    "class": [
+      "Bard",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "hellish-rebuke": {
+    "name": "Hellish Rebuke",
+    "link": "https://www.dndbeyond.com/spells/hellish-rebuke",
+    "class": [
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "heroes-feast": {
+    "name": "Heroes' Feast",
+    "link": "https://www.dndbeyond.com/spells/heroes-feast",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "heroism": {
+    "name": "Heroism",
+    "link": "https://www.dndbeyond.com/spells/heroism",
+    "class": [
+      "Bard",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "hex": {
+    "name": "Hex",
+    "link": "https://www.dndbeyond.com/spells/hex",
+    "class": [
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "hold-monster": {
+    "name": "Hold Monster",
+    "link": "https://www.dndbeyond.com/spells/hold-monster",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Enchantment"
+  },
+  "hold-person": {
+    "name": "Hold Person",
+    "link": "https://www.dndbeyond.com/spells/hold-person",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Enchantment"
+  },
+  "holy-aura": {
+    "name": "Holy Aura",
+    "link": "https://www.dndbeyond.com/spells/holy-aura",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Abjuration"
+  },
+  "holy-weapon": {
+    "name": "Holy Weapon",
+    "link": "https://www.dndbeyond.com/spells/holy-weapon",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "hunger-of-hadar": {
+    "name": "Hunger of Hadar",
+    "link": "https://www.dndbeyond.com/spells/hunger-of-hadar",
+    "class": [
+      "Warlock"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "hunters-mark": {
+    "name": "Hunter's Mark",
+    "link": "https://www.dndbeyond.com/spells/hunters-mark",
+    "class": [
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Divination"
+  },
+  "hypnotic-pattern": {
+    "name": "Hypnotic Pattern",
+    "link": "https://www.dndbeyond.com/spells/hypnotic-pattern",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Illusion"
+  },
+  "ice-knife": {
+    "name": "Ice Knife",
+    "link": "https://www.dndbeyond.com/spells/ice-knife",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "ice-storm": {
+    "name": "Ice Storm",
+    "link": "https://www.dndbeyond.com/spells/ice-storm",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "identify": {
+    "name": "Identify",
+    "link": "https://www.dndbeyond.com/spells/identify",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Divination"
+  },
+  "illusory-dragon": {
+    "name": "Illusory Dragon",
+    "link": "https://www.dndbeyond.com/spells/illusory-dragon",
+    "class": [
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 8,
+    "school": "Illusion"
+  },
+  "illusory-script": {
+    "name": "Illusory Script",
+    "link": "https://www.dndbeyond.com/spells/illusory-script",
+    "class": [
+      "Bard",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Illusion"
+  },
+  "immolation": {
+    "name": "Immolation",
+    "link": "https://www.dndbeyond.com/spells/immolation",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "imprisonment": {
+    "name": "Imprisonment",
+    "link": "https://www.dndbeyond.com/spells/imprisonment",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Abjuration"
+  },
+  "incendiary-cloud": {
+    "name": "Incendiary Cloud",
+    "link": "https://www.dndbeyond.com/spells/incendiary-cloud",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Conjuration"
+  },
+  "infernal-calling": {
+    "name": "Infernal Calling",
+    "link": "https://www.dndbeyond.com/spells/infernal-calling",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "infestation": {
+    "name": "Infestation",
+    "link": "https://www.dndbeyond.com/spells/infestation",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Conjuration"
+  },
+  "inflict-wounds": {
+    "name": "Inflict Wounds",
+    "link": "https://www.dndbeyond.com/spells/inflict-wounds",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Necromancy"
+  },
+  "insect-plague": {
+    "name": "Insect Plague",
+    "link": "https://www.dndbeyond.com/spells/insect-plague",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Sorcerer"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "investiture-of-flame": {
+    "name": "Investiture of Flame",
+    "link": "https://www.dndbeyond.com/spells/investiture-of-flame",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "investiture-of-ice": {
+    "name": "Investiture of Ice",
+    "link": "https://www.dndbeyond.com/spells/investiture-of-ice",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "investiture-of-stone": {
+    "name": "Investiture of Stone",
+    "link": "https://www.dndbeyond.com/spells/investiture-of-stone",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "investiture-of-wind": {
+    "name": "Investiture of Wind",
+    "link": "https://www.dndbeyond.com/spells/investiture-of-wind",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "invisibility": {
+    "name": "Invisibility",
+    "link": "https://www.dndbeyond.com/spells/invisibility",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "invulnerability": {
+    "name": "Invulnerability",
+    "link": "https://www.dndbeyond.com/spells/invulnerability",
+    "class": [
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 9,
+    "school": "Abjuration"
+  },
+  "jump": {
+    "name": "Jump",
+    "link": "https://www.dndbeyond.com/spells/jump",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "knock": {
+    "name": "Knock",
+    "link": "https://www.dndbeyond.com/spells/knock",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "legend-lore": {
+    "name": "Legend Lore",
+    "link": "https://www.dndbeyond.com/spells/legend-lore",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Divination"
+  },
+  "leomunds-secret-chest": {
+    "name": "Leomund's Secret Chest",
+    "link": "https://www.dndbeyond.com/spells/leomunds-secret-chest",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "leomunds-tiny-hut": {
+    "name": "Leomund's Tiny Hut",
+    "link": "https://www.dndbeyond.com/spells/leomunds-tiny-hut",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "lesser-restoration": {
+    "name": "Lesser Restoration",
+    "link": "https://www.dndbeyond.com/spells/lesser-restoration",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Abjuration"
+  },
+  "levitate": {
+    "name": "Levitate",
+    "link": "https://www.dndbeyond.com/spells/levitate",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "life-transference": {
+    "name": "Life Transference",
+    "link": "https://www.dndbeyond.com/spells/life-transference",
+    "class": [
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Necromancy"
+  },
+  "light": {
+    "name": "Light",
+    "link": "https://www.dndbeyond.com/spells/light",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "lightning-arrow": {
+    "name": "Lightning Arrow",
+    "link": "https://www.dndbeyond.com/spells/lightning-arrow",
+    "class": [
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "lightning-bolt": {
+    "name": "Lightning Bolt",
+    "link": "https://www.dndbeyond.com/spells/lightning-bolt",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "locate-animals-or-plants": {
+    "name": "Locate Animals or Plants",
+    "link": "https://www.dndbeyond.com/spells/locate-animals-or-plants",
+    "class": [
+      "Bard",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Divination"
+  },
+  "locate-creature": {
+    "name": "Locate Creature",
+    "link": "https://www.dndbeyond.com/spells/locate-creature",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Divination"
+  },
+  "locate-object": {
+    "name": "Locate Object",
+    "link": "https://www.dndbeyond.com/spells/locate-object",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Divination"
+  },
+  "longstrider": {
+    "name": "Longstrider",
+    "link": "https://www.dndbeyond.com/spells/longstrider",
+    "class": [
+      "Bard",
+      "Druid",
+      "Ranger",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "maddening-darkness": {
+    "name": "Maddening Darkness",
+    "link": "https://www.dndbeyond.com/spells/maddening-darkness",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 8,
+    "school": "Evocation"
+  },
+  "maelstrom": {
+    "name": "Maelstrom",
+    "link": "https://www.dndbeyond.com/spells/maelstrom",
+    "class": [
+      "Druid"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "mage-armor": {
+    "name": "Mage Armor",
+    "link": "https://www.dndbeyond.com/spells/mage-armor",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "mage-hand": {
+    "name": "Mage Hand",
+    "link": "https://www.dndbeyond.com/spells/mage-hand",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Conjuration"
+  },
+  "magic-circle": {
+    "name": "Magic Circle",
+    "link": "https://www.dndbeyond.com/spells/magic-circle",
+    "class": [
+      "Cleric",
+      "Paladin",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "magic-jar": {
+    "name": "Magic Jar",
+    "link": "https://www.dndbeyond.com/spells/magic-jar",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Necromancy"
+  },
+  "magic-missile": {
+    "name": "Magic Missile",
+    "link": "https://www.dndbeyond.com/spells/magic-missile",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "magic-mouth": {
+    "name": "Magic Mouth",
+    "link": "https://www.dndbeyond.com/spells/magic-mouth",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "magic-stone": {
+    "name": "Magic Stone",
+    "link": "https://www.dndbeyond.com/spells/magic-stone",
+    "class": [
+      "Druid",
+      "Warlock"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "magic-weapon": {
+    "name": "Magic Weapon",
+    "link": "https://www.dndbeyond.com/spells/magic-weapon",
+    "class": [
+      "Paladin",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "major-image": {
+    "name": "Major Image",
+    "link": "https://www.dndbeyond.com/spells/major-image",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Illusion"
+  },
+  "mass-cure-wounds": {
+    "name": "Mass Cure Wounds",
+    "link": "https://www.dndbeyond.com/spells/mass-cure-wounds",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "mass-heal": {
+    "name": "Mass Heal",
+    "link": "https://www.dndbeyond.com/spells/mass-heal",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Evocation"
+  },
+  "mass-healing-word": {
+    "name": "Mass Healing Word",
+    "link": "https://www.dndbeyond.com/spells/mass-healing-word",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "mass-polymorph": {
+    "name": "Mass Polymorph",
+    "link": "https://www.dndbeyond.com/spells/mass-polymorph",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 9,
+    "school": "Transmutation"
+  },
+  "mass-suggestion": {
+    "name": "Mass Suggestion",
+    "link": "https://www.dndbeyond.com/spells/mass-suggestion",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Enchantment"
+  },
+  "maximilians-earthen-grasp": {
+    "name": "Maximilian's Earthen Grasp",
+    "link": "https://www.dndbeyond.com/spells/maximilians-earthen-grasp",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "maze": {
+    "name": "Maze",
+    "link": "https://www.dndbeyond.com/spells/maze",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Conjuration"
+  },
+  "meld-into-stone": {
+    "name": "Meld into Stone",
+    "link": "https://www.dndbeyond.com/spells/meld-into-stone",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "melfs-acid-arrow": {
+    "name": "Melf's Acid Arrow",
+    "link": "https://www.dndbeyond.com/spells/melfs-acid-arrow",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "melfs-minute-meteors": {
+    "name": "Melf's Minute Meteors",
+    "link": "https://www.dndbeyond.com/spells/melfs-minute-meteors",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "mending": {
+    "name": "Mending",
+    "link": "https://www.dndbeyond.com/spells/mending",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "mental-prison": {
+    "name": "Mental Prison",
+    "link": "https://www.dndbeyond.com/spells/mental-prison",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Illusion"
+  },
+  "message": {
+    "name": "Message",
+    "link": "https://www.dndbeyond.com/spells/message",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "meteor-swarm": {
+    "name": "Meteor Swarm",
+    "link": "https://www.dndbeyond.com/spells/meteor-swarm",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Evocation"
+  },
+  "mighty-fortress": {
+    "name": "Mighty Fortress",
+    "link": "https://www.dndbeyond.com/spells/mighty-fortress",
+    "class": [
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 8,
+    "school": "Conjuration"
+  },
+  "mind-blank": {
+    "name": "Mind Blank",
+    "link": "https://www.dndbeyond.com/spells/mind-blank",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Abjuration"
+  },
+  "mind-spike": {
+    "name": "Mind Spike",
+    "link": "https://www.dndbeyond.com/spells/mind-spike",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Divination"
+  },
+  "minor-illusion": {
+    "name": "Minor Illusion",
+    "link": "https://www.dndbeyond.com/spells/minor-illusion",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Illusion"
+  },
+  "mirage-arcane": {
+    "name": "Mirage Arcane",
+    "link": "https://www.dndbeyond.com/spells/mirage-arcane",
+    "class": [
+      "Bard",
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Illusion"
+  },
+  "mirror-image": {
+    "name": "Mirror Image",
+    "link": "https://www.dndbeyond.com/spells/mirror-image",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "mislead": {
+    "name": "Mislead",
+    "link": "https://www.dndbeyond.com/spells/mislead",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Illusion"
+  },
+  "misty-step": {
+    "name": "Misty Step",
+    "link": "https://www.dndbeyond.com/spells/misty-step",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Conjuration"
+  },
+  "modify-memory": {
+    "name": "Modify Memory",
+    "link": "https://www.dndbeyond.com/spells/modify-memory",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Enchantment"
+  },
+  "mold-earth": {
+    "name": "Mold Earth",
+    "link": "https://www.dndbeyond.com/spells/mold-earth",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "moonbeam": {
+    "name": "Moonbeam",
+    "link": "https://www.dndbeyond.com/spells/moonbeam",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "mordenkainens-faithful-hound": {
+    "name": "Mordenkainen's Faithful Hound",
+    "link": "https://www.dndbeyond.com/spells/mordenkainens-faithful-hound",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "mordenkainens-magnificent-mansion": {
+    "name": "Mordenkainen's Magnificent Mansion",
+    "link": "https://www.dndbeyond.com/spells/mordenkainens-magnificent-mansion",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Conjuration"
+  },
+  "mordenkainens-private-sanctum": {
+    "name": "Mordenkainen's Private Sanctum",
+    "link": "https://www.dndbeyond.com/spells/mordenkainens-private-sanctum",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Abjuration"
+  },
+  "mordenkainens-sword": {
+    "name": "Mordenkainen's Sword",
+    "link": "https://www.dndbeyond.com/spells/mordenkainens-sword",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "move-earth": {
+    "name": "Move Earth",
+    "link": "https://www.dndbeyond.com/spells/move-earth",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "negative-energy-flood": {
+    "name": "Negative Energy Flood",
+    "link": "https://www.dndbeyond.com/spells/negative-energy-flood",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Necromancy"
+  },
+  "nondetection": {
+    "name": "Nondetection",
+    "link": "https://www.dndbeyond.com/spells/nondetection",
+    "class": [
+      "Bard",
+      "Ranger",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "nystuls-magic-aura": {
+    "name": "Nystul's Magic Aura",
+    "link": "https://www.dndbeyond.com/spells/nystuls-magic-aura",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "otilukes-freezing-sphere": {
+    "name": "Otiluke's Freezing Sphere",
+    "link": "https://www.dndbeyond.com/spells/otilukes-freezing-sphere",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Evocation"
+  },
+  "otilukes-resilient-sphere": {
+    "name": "Otiluke's Resilient Sphere",
+    "link": "https://www.dndbeyond.com/spells/otilukes-resilient-sphere",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "ottos-irresistible-dance": {
+    "name": "Otto's Irresistible Dance",
+    "link": "https://www.dndbeyond.com/spells/ottos-irresistible-dance",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Enchantment"
+  },
+  "pass-without-trace": {
+    "name": "Pass without Trace",
+    "link": "https://www.dndbeyond.com/spells/pass-without-trace",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Abjuration"
+  },
+  "passwall": {
+    "name": "Passwall",
+    "link": "https://www.dndbeyond.com/spells/passwall",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "phantasmal-force": {
+    "name": "Phantasmal Force",
+    "link": "https://www.dndbeyond.com/spells/phantasmal-force",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "phantasmal-killer": {
+    "name": "Phantasmal Killer",
+    "link": "https://www.dndbeyond.com/spells/phantasmal-killer",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Illusion"
+  },
+  "phantom-steed": {
+    "name": "Phantom Steed",
+    "link": "https://www.dndbeyond.com/spells/phantom-steed",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Illusion"
+  },
+  "planar-ally": {
+    "name": "Planar Ally",
+    "link": "https://www.dndbeyond.com/spells/planar-ally",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "planar-binding": {
+    "name": "Planar Binding",
+    "link": "https://www.dndbeyond.com/spells/planar-binding",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Abjuration"
+  },
+  "plane-shift": {
+    "name": "Plane Shift",
+    "link": "https://www.dndbeyond.com/spells/plane-shift",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Conjuration"
+  },
+  "plant-growth": {
+    "name": "Plant Growth",
+    "link": "https://www.dndbeyond.com/spells/plant-growth",
+    "class": [
+      "Bard",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "poison-spray": {
+    "name": "Poison Spray",
+    "link": "https://www.dndbeyond.com/spells/poison-spray",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Conjuration"
+  },
+  "polymorph": {
+    "name": "Polymorph",
+    "link": "https://www.dndbeyond.com/spells/polymorph",
+    "class": [
+      "Bard",
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Transmutation"
+  },
+  "power-word-heal": {
+    "name": "Power Word Heal",
+    "link": "https://www.dndbeyond.com/spells/power-word-heal",
+    "class": [
+      "Bard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Evocation"
+  },
+  "power-word-kill": {
+    "name": "Power Word Kill",
+    "link": "https://www.dndbeyond.com/spells/power-word-kill",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Enchantment"
+  },
+  "power-word-pain": {
+    "name": "Power Word Pain",
+    "link": "https://www.dndbeyond.com/spells/power-word-pain",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 7,
+    "school": "Enchantment"
+  },
+  "power-word-stun": {
+    "name": "Power Word Stun",
+    "link": "https://www.dndbeyond.com/spells/power-word-stun",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Enchantment"
+  },
+  "prayer-of-healing": {
+    "name": "Prayer of Healing",
+    "link": "https://www.dndbeyond.com/spells/prayer-of-healing",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "prestidigitation": {
+    "name": "Prestidigitation",
+    "link": "https://www.dndbeyond.com/spells/prestidigitation",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "primal-savagery": {
+    "name": "Primal Savagery",
+    "link": "https://www.dndbeyond.com/spells/primal-savagery",
+    "class": [
+      "Druid"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "primordial-ward": {
+    "name": "Primordial Ward",
+    "link": "https://www.dndbeyond.com/spells/primordial-ward",
+    "class": [
+      "Druid"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Abjuration"
+  },
+  "prismatic-spray": {
+    "name": "Prismatic Spray",
+    "link": "https://www.dndbeyond.com/spells/prismatic-spray",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "prismatic-wall": {
+    "name": "Prismatic Wall",
+    "link": "https://www.dndbeyond.com/spells/prismatic-wall",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Abjuration"
+  },
+  "produce-flame": {
+    "name": "Produce Flame",
+    "link": "https://www.dndbeyond.com/spells/produce-flame",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Conjuration"
+  },
+  "programmed-illusion": {
+    "name": "Programmed Illusion",
+    "link": "https://www.dndbeyond.com/spells/programmed-illusion",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Illusion"
+  },
+  "project-image": {
+    "name": "Project Image",
+    "link": "https://www.dndbeyond.com/spells/project-image",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Illusion"
+  },
+  "protection-from-energy": {
+    "name": "Protection from Energy",
+    "link": "https://www.dndbeyond.com/spells/protection-from-energy",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "protection-from-evil-and-good": {
+    "name": "Protection from Evil and Good",
+    "link": "https://www.dndbeyond.com/spells/protection-from-evil-and-good",
+    "class": [
+      "Cleric",
+      "Paladin",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "protection-from-poison": {
+    "name": "Protection from Poison",
+    "link": "https://www.dndbeyond.com/spells/protection-from-poison",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Paladin",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Abjuration"
+  },
+  "psychic-scream": {
+    "name": "Psychic Scream",
+    "link": "https://www.dndbeyond.com/spells/psychic-scream",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 9,
+    "school": "Enchantment"
+  },
+  "purify-food-and-drink": {
+    "name": "Purify Food and Drink",
+    "link": "https://www.dndbeyond.com/spells/purify-food-and-drink",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "pyrotechnics": {
+    "name": "Pyrotechnics",
+    "link": "https://www.dndbeyond.com/spells/pyrotechnics",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "raise-dead": {
+    "name": "Raise Dead",
+    "link": "https://www.dndbeyond.com/spells/raise-dead",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Necromancy"
+  },
+  "rarys-telepathic-bond": {
+    "name": "Rary's Telepathic Bond",
+    "link": "https://www.dndbeyond.com/spells/rarys-telepathic-bond",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Divination"
+  },
+  "ray-of-enfeeblement": {
+    "name": "Ray of Enfeeblement",
+    "link": "https://www.dndbeyond.com/spells/ray-of-enfeeblement",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Necromancy"
+  },
+  "ray-of-frost": {
+    "name": "Ray of Frost",
+    "link": "https://www.dndbeyond.com/spells/ray-of-frost",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "ray-of-sickness": {
+    "name": "Ray of Sickness",
+    "link": "https://www.dndbeyond.com/spells/ray-of-sickness",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Necromancy"
+  },
+  "regenerate": {
+    "name": "Regenerate",
+    "link": "https://www.dndbeyond.com/spells/regenerate",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Transmutation"
+  },
+  "reincarnate": {
+    "name": "Reincarnate",
+    "link": "https://www.dndbeyond.com/spells/reincarnate",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "remove-curse": {
+    "name": "Remove Curse",
+    "link": "https://www.dndbeyond.com/spells/remove-curse",
+    "class": [
+      "Cleric",
+      "Paladin",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Abjuration"
+  },
+  "resistance": {
+    "name": "Resistance",
+    "link": "https://www.dndbeyond.com/spells/resistance",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Abjuration"
+  },
+  "resurrection": {
+    "name": "Resurrection",
+    "link": "https://www.dndbeyond.com/spells/resurrection",
+    "class": [
+      "Bard",
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Necromancy"
+  },
+  "reverse-gravity": {
+    "name": "Reverse Gravity",
+    "link": "https://www.dndbeyond.com/spells/reverse-gravity",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Transmutation"
+  },
+  "revivify": {
+    "name": "Revivify",
+    "link": "https://www.dndbeyond.com/spells/revivify",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Necromancy"
+  },
+  "rope-trick": {
+    "name": "Rope Trick",
+    "link": "https://www.dndbeyond.com/spells/rope-trick",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "sacred-flame": {
+    "name": "Sacred Flame",
+    "link": "https://www.dndbeyond.com/spells/sacred-flame",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "sanctuary": {
+    "name": "Sanctuary",
+    "link": "https://www.dndbeyond.com/spells/sanctuary",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "scatter": {
+    "name": "Scatter",
+    "link": "https://www.dndbeyond.com/spells/scatter",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "scorching-ray": {
+    "name": "Scorching Ray",
+    "link": "https://www.dndbeyond.com/spells/scorching-ray",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "scrying": {
+    "name": "Scrying",
+    "link": "https://www.dndbeyond.com/spells/scrying",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Druid",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Divination"
+  },
+  "searing-smite": {
+    "name": "Searing Smite",
+    "link": "https://www.dndbeyond.com/spells/searing-smite",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "see-invisibility": {
+    "name": "See Invisibility",
+    "link": "https://www.dndbeyond.com/spells/see-invisibility",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Divination"
+  },
+  "seeming": {
+    "name": "Seeming",
+    "link": "https://www.dndbeyond.com/spells/seeming",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Illusion"
+  },
+  "sending": {
+    "name": "Sending",
+    "link": "https://www.dndbeyond.com/spells/sending",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "sequester": {
+    "name": "Sequester",
+    "link": "https://www.dndbeyond.com/spells/sequester",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Transmutation"
+  },
+  "shadow-blade": {
+    "name": "Shadow Blade",
+    "link": "https://www.dndbeyond.com/spells/shadow-blade",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "shadow-of-moil": {
+    "name": "Shadow of Moil",
+    "link": "https://www.dndbeyond.com/spells/shadow-of-moil",
+    "class": [
+      "Warlock"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Necromancy"
+  },
+  "shape-water": {
+    "name": "Shape Water",
+    "link": "https://www.dndbeyond.com/spells/shape-water",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "shapechange": {
+    "name": "Shapechange",
+    "link": "https://www.dndbeyond.com/spells/shapechange",
+    "class": [
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Transmutation"
+  },
+  "shatter": {
+    "name": "Shatter",
+    "link": "https://www.dndbeyond.com/spells/shatter",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "shield": {
+    "name": "Shield",
+    "link": "https://www.dndbeyond.com/spells/shield",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "shield-of-faith": {
+    "name": "Shield of Faith",
+    "link": "https://www.dndbeyond.com/spells/shield-of-faith",
+    "class": [
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "shillelagh": {
+    "name": "Shillelagh",
+    "link": "https://www.dndbeyond.com/spells/shillelagh",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "shocking-grasp": {
+    "name": "Shocking Grasp",
+    "link": "https://www.dndbeyond.com/spells/shocking-grasp",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "sickening-radiance": {
+    "name": "Sickening Radiance",
+    "link": "https://www.dndbeyond.com/spells/sickening-radiance",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "silence": {
+    "name": "Silence",
+    "link": "https://www.dndbeyond.com/spells/silence",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Illusion"
+  },
+  "silent-image": {
+    "name": "Silent Image",
+    "link": "https://www.dndbeyond.com/spells/silent-image",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Illusion"
+  },
+  "simulacrum": {
+    "name": "Simulacrum",
+    "link": "https://www.dndbeyond.com/spells/simulacrum",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Illusion"
+  },
+  "skill-empowerment": {
+    "name": "Skill Empowerment",
+    "link": "https://www.dndbeyond.com/spells/skill-empowerment",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "skywrite": {
+    "name": "Skywrite",
+    "link": "https://www.dndbeyond.com/spells/skywrite",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "sleep": {
+    "name": "Sleep",
+    "link": "https://www.dndbeyond.com/spells/sleep",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "sleet-storm": {
+    "name": "Sleet Storm",
+    "link": "https://www.dndbeyond.com/spells/sleet-storm",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "slow": {
+    "name": "Slow",
+    "link": "https://www.dndbeyond.com/spells/slow",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "snare": {
+    "name": "Snare",
+    "link": "https://www.dndbeyond.com/spells/snare",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Abjuration"
+  },
+  "snillocs-snowball-swarm": {
+    "name": "Snilloc's Snowball Swarm",
+    "link": "https://www.dndbeyond.com/spells/snillocs-snowball-swarm",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "soul-cage": {
+    "name": "Soul Cage",
+    "link": "https://www.dndbeyond.com/spells/soul-cage",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Necromancy"
+  },
+  "spare-the-dying": {
+    "name": "Spare the Dying",
+    "link": "https://www.dndbeyond.com/spells/spare-the-dying",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Necromancy"
+  },
+  "speak-with-animals": {
+    "name": "Speak with Animals",
+    "link": "https://www.dndbeyond.com/spells/speak-with-animals",
+    "class": [
+      "Bard",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Divination"
+  },
+  "speak-with-dead": {
+    "name": "Speak with Dead",
+    "link": "https://www.dndbeyond.com/spells/speak-with-dead",
+    "class": [
+      "Bard",
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Necromancy"
+  },
+  "speak-with-plants": {
+    "name": "Speak with Plants",
+    "link": "https://www.dndbeyond.com/spells/speak-with-plants",
+    "class": [
+      "Bard",
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "spider-climb": {
+    "name": "Spider Climb",
+    "link": "https://www.dndbeyond.com/spells/spider-climb",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "spike-growth": {
+    "name": "Spike Growth",
+    "link": "https://www.dndbeyond.com/spells/spike-growth",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Transmutation"
+  },
+  "spirit-guardians": {
+    "name": "Spirit Guardians",
+    "link": "https://www.dndbeyond.com/spells/spirit-guardians",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "spiritual-weapon": {
+    "name": "Spiritual Weapon",
+    "link": "https://www.dndbeyond.com/spells/spiritual-weapon",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "staggering-smite": {
+    "name": "Staggering Smite",
+    "link": "https://www.dndbeyond.com/spells/staggering-smite",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "steel-wind-strike": {
+    "name": "Steel Wind Strike",
+    "link": "https://www.dndbeyond.com/spells/steel-wind-strike",
+    "class": [
+      "Ranger",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "stinking-cloud": {
+    "name": "Stinking Cloud",
+    "link": "https://www.dndbeyond.com/spells/stinking-cloud",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "stone-shape": {
+    "name": "Stone Shape",
+    "link": "https://www.dndbeyond.com/spells/stone-shape",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Transmutation"
+  },
+  "stoneskin": {
+    "name": "Stoneskin",
+    "link": "https://www.dndbeyond.com/spells/stoneskin",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Abjuration"
+  },
+  "storm-of-vengeance": {
+    "name": "Storm of Vengeance",
+    "link": "https://www.dndbeyond.com/spells/storm-of-vengeance",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Conjuration"
+  },
+  "storm-sphere": {
+    "name": "Storm Sphere",
+    "link": "https://www.dndbeyond.com/spells/storm-sphere",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "suggestion": {
+    "name": "Suggestion",
+    "link": "https://www.dndbeyond.com/spells/suggestion",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Enchantment"
+  },
+  "summon-greater-demon": {
+    "name": "Summon Greater Demon",
+    "link": "https://www.dndbeyond.com/spells/summon-greater-demon",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "summon-lesser-demons": {
+    "name": "Summon Lesser Demons",
+    "link": "https://www.dndbeyond.com/spells/summon-lesser-demons",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "sunbeam": {
+    "name": "Sunbeam",
+    "link": "https://www.dndbeyond.com/spells/sunbeam",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Evocation"
+  },
+  "sunburst": {
+    "name": "Sunburst",
+    "link": "https://www.dndbeyond.com/spells/sunburst",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Evocation"
+  },
+  "swift-quiver": {
+    "name": "Swift Quiver",
+    "link": "https://www.dndbeyond.com/spells/swift-quiver",
+    "class": [
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "symbol": {
+    "name": "Symbol",
+    "link": "https://www.dndbeyond.com/spells/symbol",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Abjuration"
+  },
+  "synaptic-static": {
+    "name": "Synaptic Static",
+    "link": "https://www.dndbeyond.com/spells/synaptic-static",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Enchantment"
+  },
+  "tashas-hideous-laughter": {
+    "name": "Tasha's Hideous Laughter",
+    "link": "https://www.dndbeyond.com/spells/tashas-hideous-laughter",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Enchantment"
+  },
+  "telekinesis": {
+    "name": "Telekinesis",
+    "link": "https://www.dndbeyond.com/spells/telekinesis",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "telepathy": {
+    "name": "Telepathy",
+    "link": "https://www.dndbeyond.com/spells/telepathy",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Evocation"
+  },
+  "teleport": {
+    "name": "Teleport",
+    "link": "https://www.dndbeyond.com/spells/teleport",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 7,
+    "school": "Conjuration"
+  },
+  "teleportation-circle": {
+    "name": "Teleportation Circle",
+    "link": "https://www.dndbeyond.com/spells/teleportation-circle",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "temple-of-the-gods": {
+    "name": "Temple of the Gods",
+    "link": "https://www.dndbeyond.com/spells/temple-of-the-gods",
+    "class": [
+      "Cleric"
+    ],
+    "source": "xgte",
+    "level": 7,
+    "school": "Conjuration"
+  },
+  "tensers-floating-disk": {
+    "name": "Tenser's Floating Disk",
+    "link": "https://www.dndbeyond.com/spells/tensers-floating-disk",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "tensers-transformation": {
+    "name": "Tenser's Transformation",
+    "link": "https://www.dndbeyond.com/spells/tensers-transformation",
+    "class": [
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "thaumaturgy": {
+    "name": "Thaumaturgy",
+    "link": "https://www.dndbeyond.com/spells/thaumaturgy",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "thorn-whip": {
+    "name": "Thorn Whip",
+    "link": "https://www.dndbeyond.com/spells/thorn-whip",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Transmutation"
+  },
+  "thunder-step": {
+    "name": "Thunder Step",
+    "link": "https://www.dndbeyond.com/spells/thunder-step",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "thunderclap": {
+    "name": "Thunderclap",
+    "link": "https://www.dndbeyond.com/spells/thunderclap",
+    "class": [
+      "Bard",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "thunderous-smite": {
+    "name": "Thunderous Smite",
+    "link": "https://www.dndbeyond.com/spells/thunderous-smite",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "thunderwave": {
+    "name": "Thunderwave",
+    "link": "https://www.dndbeyond.com/spells/thunderwave",
+    "class": [
+      "Bard",
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "tidal-wave": {
+    "name": "Tidal Wave",
+    "link": "https://www.dndbeyond.com/spells/tidal-wave",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Conjuration"
+  },
+  "time-stop": {
+    "name": "Time Stop",
+    "link": "https://www.dndbeyond.com/spells/time-stop",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Transmutation"
+  },
+  "tiny-servant": {
+    "name": "Tiny Servant",
+    "link": "https://www.dndbeyond.com/spells/tiny-servant",
+    "class": [
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "toll-the-dead": {
+    "name": "Toll the Dead",
+    "link": "https://www.dndbeyond.com/spells/toll-the-dead",
+    "class": [
+      "Cleric",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Necromancy"
+  },
+  "tongues": {
+    "name": "Tongues",
+    "link": "https://www.dndbeyond.com/spells/tongues",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Divination"
+  },
+  "transmute-rock": {
+    "name": "Transmute Rock",
+    "link": "https://www.dndbeyond.com/spells/transmute-rock",
+    "class": [
+      "Druid",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Transmutation"
+  },
+  "transport-via-plants": {
+    "name": "Transport via Plants",
+    "link": "https://www.dndbeyond.com/spells/transport-via-plants",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "tree-stride": {
+    "name": "Tree Stride",
+    "link": "https://www.dndbeyond.com/spells/tree-stride",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Conjuration"
+  },
+  "true-polymorph": {
+    "name": "True Polymorph",
+    "link": "https://www.dndbeyond.com/spells/true-polymorph",
+    "class": [
+      "Bard",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Transmutation"
+  },
+  "true-resurrection": {
+    "name": "True Resurrection",
+    "link": "https://www.dndbeyond.com/spells/true-resurrection",
+    "class": [
+      "Cleric",
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Necromancy"
+  },
+  "true-seeing": {
+    "name": "True Seeing",
+    "link": "https://www.dndbeyond.com/spells/true-seeing",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Divination"
+  },
+  "true-strike": {
+    "name": "True Strike",
+    "link": "https://www.dndbeyond.com/spells/true-strike",
+    "class": [
+      "Bard",
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Divination"
+  },
+  "tsunami": {
+    "name": "Tsunami",
+    "link": "https://www.dndbeyond.com/spells/tsunami",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 8,
+    "school": "Conjuration"
+  },
+  "unseen-servant": {
+    "name": "Unseen Servant",
+    "link": "https://www.dndbeyond.com/spells/unseen-servant",
+    "class": [
+      "Bard",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Conjuration"
+  },
+  "vampiric-touch": {
+    "name": "Vampiric Touch",
+    "link": "https://www.dndbeyond.com/spells/vampiric-touch",
+    "class": [
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Necromancy"
+  },
+  "vicious-mockery": {
+    "name": "Vicious Mockery",
+    "link": "https://www.dndbeyond.com/spells/vicious-mockery",
+    "class": [
+      "Bard"
+    ],
+    "source": "phb",
+    "level": 0,
+    "school": "Enchantment"
+  },
+  "vitriolic-sphere": {
+    "name": "Vitriolic Sphere",
+    "link": "https://www.dndbeyond.com/spells/vitriolic-sphere",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "wall-of-fire": {
+    "name": "Wall of Fire",
+    "link": "https://www.dndbeyond.com/spells/wall-of-fire",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 4,
+    "school": "Evocation"
+  },
+  "wall-of-force": {
+    "name": "Wall of Force",
+    "link": "https://www.dndbeyond.com/spells/wall-of-force",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "wall-of-ice": {
+    "name": "Wall of Ice",
+    "link": "https://www.dndbeyond.com/spells/wall-of-ice",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Evocation"
+  },
+  "wall-of-light": {
+    "name": "Wall of Light",
+    "link": "https://www.dndbeyond.com/spells/wall-of-light",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "wall-of-sand": {
+    "name": "Wall of Sand",
+    "link": "https://www.dndbeyond.com/spells/wall-of-sand",
+    "class": [
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "wall-of-stone": {
+    "name": "Wall of Stone",
+    "link": "https://www.dndbeyond.com/spells/wall-of-stone",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "wall-of-thorns": {
+    "name": "Wall of Thorns",
+    "link": "https://www.dndbeyond.com/spells/wall-of-thorns",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "wall-of-water": {
+    "name": "Wall of Water",
+    "link": "https://www.dndbeyond.com/spells/wall-of-water",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "warding-bond": {
+    "name": "Warding Bond",
+    "link": "https://www.dndbeyond.com/spells/warding-bond",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Abjuration"
+  },
+  "warding-wind": {
+    "name": "Warding Wind",
+    "link": "https://www.dndbeyond.com/spells/warding-wind",
+    "class": [
+      "Bard",
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 2,
+    "school": "Evocation"
+  },
+  "water-breathing": {
+    "name": "Water Breathing",
+    "link": "https://www.dndbeyond.com/spells/water-breathing",
+    "class": [
+      "Druid",
+      "Ranger",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "water-walk": {
+    "name": "Water Walk",
+    "link": "https://www.dndbeyond.com/spells/water-walk",
+    "class": [
+      "Cleric",
+      "Druid",
+      "Ranger",
+      "Sorcerer"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Transmutation"
+  },
+  "watery-sphere": {
+    "name": "Watery Sphere",
+    "link": "https://www.dndbeyond.com/spells/watery-sphere",
+    "class": [
+      "Druid",
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "xgte",
+    "level": 4,
+    "school": "Conjuration"
+  },
+  "web": {
+    "name": "Web",
+    "link": "https://www.dndbeyond.com/spells/web",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Conjuration"
+  },
+  "weird": {
+    "name": "Weird",
+    "link": "https://www.dndbeyond.com/spells/weird",
+    "class": [
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Illusion"
+  },
+  "whirlwind": {
+    "name": "Whirlwind",
+    "link": "https://www.dndbeyond.com/spells/whirlwind",
+    "class": [
+      "Sorcerer"
+    ],
+    "source": "xgte",
+    "level": 7,
+    "school": "Evocation"
+  },
+  "wind-walk": {
+    "name": "Wind Walk",
+    "link": "https://www.dndbeyond.com/spells/wind-walk",
+    "class": [
+      "Druid"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Transmutation"
+  },
+  "wind-wall": {
+    "name": "Wind Wall",
+    "link": "https://www.dndbeyond.com/spells/wind-wall",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "phb",
+    "level": 3,
+    "school": "Evocation"
+  },
+  "wish": {
+    "name": "Wish",
+    "link": "https://www.dndbeyond.com/spells/wish",
+    "class": [
+      "Sorcerer",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 9,
+    "school": "Conjuration"
+  },
+  "witch-bolt": {
+    "name": "Witch Bolt",
+    "link": "https://www.dndbeyond.com/spells/witch-bolt",
+    "class": [
+      "Sorcerer",
+      "Warlock",
+      "Wizard"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "word-of-radiance": {
+    "name": "Word of Radiance",
+    "link": "https://www.dndbeyond.com/spells/word-of-radiance",
+    "class": [
+      "Cleric"
+    ],
+    "source": "xgte",
+    "level": 0,
+    "school": "Evocation"
+  },
+  "word-of-recall": {
+    "name": "Word of Recall",
+    "link": "https://www.dndbeyond.com/spells/word-of-recall",
+    "class": [
+      "Cleric"
+    ],
+    "source": "phb",
+    "level": 6,
+    "school": "Conjuration"
+  },
+  "wrath-of-nature": {
+    "name": "Wrath of Nature",
+    "link": "https://www.dndbeyond.com/spells/wrath-of-nature",
+    "class": [
+      "Druid",
+      "Ranger"
+    ],
+    "source": "xgte",
+    "level": 5,
+    "school": "Evocation"
+  },
+  "wrathful-smite": {
+    "name": "Wrathful Smite",
+    "link": "https://www.dndbeyond.com/spells/wrathful-smite",
+    "class": [
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 1,
+    "school": "Evocation"
+  },
+  "zephyr-strike": {
+    "name": "Zephyr Strike",
+    "link": "https://www.dndbeyond.com/spells/zephyr-strike",
+    "class": [
+      "Ranger"
+    ],
+    "source": "xgte",
+    "level": 1,
+    "school": "Transmutation"
+  },
+  "zone-of-truth": {
+    "name": "Zone of Truth",
+    "link": "https://www.dndbeyond.com/spells/zone-of-truth",
+    "class": [
+      "Bard",
+      "Cleric",
+      "Paladin"
+    ],
+    "source": "phb",
+    "level": 2,
+    "school": "Enchantment"
+  }
+}

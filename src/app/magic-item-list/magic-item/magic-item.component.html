@@ -1,0 +1,40 @@
+<ul class="list-group">
+  <a
+    class="list-group-item"
+    style="cursor: pointer"
+  >
+    <a *ngIf="magicItem.prefix" [href]="magicItem.prefixLink">{{ magicItem.prefix }}</a>
+    <a [href]="magicItem.link">{{ magicItem.name }}</a>
+    <a *ngIf="magicItem.suffix" [href]="magicItem.suffixLink">{{ magicItem.suffix }}</a>
+    ({{magicItem.rarity}}, {{magicItem.price}} gp)
+    <button
+      class="btn btn-primary"
+      type="button"
+      title="Reroll {{ magicItem.rerollType }}"
+      (click)="onRerollProperties()"
+      *ngIf="magicItem.rerollType">
+      <span>&#9861;</span> ({{ magicItem.rerollType.toLowerCase() }})
+    </button>
+    <button
+      class="btn btn-primary"
+      type="button"
+      title="Reroll Item from {{ magicItem.tableKey }}"
+      (click)="onRerollItem()">
+      <span>&#9861;</span> (item)
+    </button>
+    <button
+      class="btn btn-primary"
+      type="button"
+      title="Reroll Price"
+      (click)="onRerollPrice()">
+      <span>&#9861;</span> (price)
+    </button>
+    <button
+      class="btn btn-danger"
+      type="button"
+      title="Remove Item"
+      (click)="onRemove()">
+        <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+    </button>
+  </a>
+</ul>

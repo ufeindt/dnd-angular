@@ -1,0 +1,2890 @@
+{
+  "Magic Item Table A": [
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-healing",
+      "probability": 50
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 0,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-cantrip",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 10
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-climbing",
+      "probability": 10
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 1,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-1st-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 20
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 2,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-2nd-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 4
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-healing-greater",
+      "probability": 4
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bag-of-holding",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "driftglobe",
+      "probability": 1
+    }
+  ],
+  "Magic Item Table B": [
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-healing-greater",
+      "probability": 15
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-fire-breath",
+      "probability": 7
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "potion-of-resistance",
+        "nameOverride": "Potion of "
+      },
+      "probability": 7,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table G",
+      "out": {
+        "rowType": "item",
+        "itemKey": "ammunition-1",
+        "nameOverride": ", +1 "
+      },
+      "probability": 5,
+      "rerollType": "Ammunition Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-animal-friendship",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-hill-giant-strength",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-growth",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-water-breathing",
+      "probability": 5
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 2,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-2nd-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 5
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 3,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-3rd-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bag-of-holding",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "keoghtoms-ointment",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "oil-of-slipperiness",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dust-of-disappearance",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dust-of-dryness",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dust-of-sneezing-and-choking",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "elemental-gem",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "philter-of-love",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "alchemy-jug",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cap-of-water-breathing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-the-manta-ray",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "driftglobe",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "goggles-of-night",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "helm-of-comprehending-languages",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "immovable-rod",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "lantern-of-revealing",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table I",
+      "out": {
+        "rowType": "item",
+        "itemKey": "mariners-armor",
+        "prefix": "Mariner's "
+      },
+      "probability": 1,
+      "rerollType": "Armor Type"
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table K",
+      "out": {
+        "rowType": "item",
+        "itemKey": "mithral-armor",
+        "prefix": "Mithral "
+      },
+      "probability": 1,
+      "rerollType": "Armor Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-poison",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-swimming",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "robe-of-useful-items",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rope-of-climbing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "saddle-of-the-cavalier",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-magic-detection",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-secrets",
+      "probability": 1
+    }
+  ],
+  "Magic Item Table C": [
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-healing-superior",
+      "probability": 15
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 4,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-4th-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 7
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table G",
+      "out": {
+        "rowType": "item",
+        "itemKey": "ammunition-2",
+        "nameOverride": ", +2 "
+      },
+      "probability": 5,
+      "rerollType": "Ammunition Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-clairvoyance",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-diminution",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-gaseous-form",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-frost-giant-strength",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-stone-giant-strength",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-heroism",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-invulnerability",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-mind-reading",
+      "probability": 5
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 5,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-5th-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "elixir-of-health",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "oil-of-etherealness",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-fire-giant-strength",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "quaals-feather-token",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "scroll-of-protection",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bag-of-beans",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bead-of-force",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "chime-of-opening",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "decanter-of-endless-water",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "eyes-of-minute-seeing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "folding-boat",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "hewards-handy-haversack",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "horseshoes-of-speed",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "necklace-of-fireballs",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "periapt-of-health",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sending-stones",
+      "probability": 1
+    }
+  ],
+  "Magic Item Table D": [
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-healing-supreme",
+      "probability": 20
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-invisibility",
+      "probability": 10
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-speed",
+      "probability": 10
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 6,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-6th-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 10
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 7,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-7th-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 7
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table G",
+      "out": {
+        "rowType": "item",
+        "itemKey": "ammunition-3",
+        "nameOverride": ", +3 "
+      },
+      "probability": 5,
+      "rerollType": "Ammunition Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "oil-of-sharpness",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-flying",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-cloud-giant-strength",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-longevity",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-vitality",
+      "probability": 5
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 8,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-8th-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "horseshoes-of-a-zephyr",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "nolzurs-marvelous-pigments",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bag-of-devouring",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "portable-hole",
+      "probability": 1
+    }
+  ],
+  "Magic Item Table E": [
+    {
+      "rowType": "spell",
+      "spellLevel": 8,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-8th-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 30
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-storm-giant-strength",
+      "probability": 25
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-healing-supreme",
+      "probability": 15
+    },
+    {
+      "rowType": "spell",
+      "spellLevel": 9,
+      "spellNameKey": "suffix",
+      "spellLinkKey": "suffixLink",
+      "out": {
+        "rowType": "item",
+        "itemKey": "spell-scroll-9th-level",
+        "nameOverride": "Scroll of "
+      },
+      "probability": 15
+    },
+    {
+      "rowType": "item",
+      "itemKey": "universal-solvent",
+      "probability": 8
+    },
+    {
+      "rowType": "item",
+      "itemKey": "arrow-of-slaying",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sovereign-glue",
+      "probability": 2
+    }
+  ],
+  "Magic Item Table F": [
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table H",
+      "out": {
+        "rowType": "item",
+        "itemKey": "weapon-1",
+        "nameOverride": ", +1"
+      },
+      "probability": 15,
+      "rerollType": "Weapon Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "shield-1",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sentinel-shield",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "amulet-of-proof-against-detection-and-location",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "boots-of-elvenkind",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "boots-of-striding-and-springing",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bracers-of-archery",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "brooch-of-shielding",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "broom-of-flying",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-elvenkind",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-protection",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "gauntlets-of-ogre-power",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "hat-of-disguise",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "javelin-of-lightning",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "pearl-of-power",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-the-pact-keeper-1",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "slippers-of-spider-climbing",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-the-adder",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-the-python",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sword-of-vengeance",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "trident-of-fish-command",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-magic-missiles",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-the-war-mage-1",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-web",
+      "probability": 2
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table H",
+      "out": {
+        "rowType": "item",
+        "itemKey": "weapon-of-warning",
+        "nameOverride": " of Warning"
+      },
+      "probability": 2,
+      "rerollType": "Weapon Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "adamantine-armor",
+      "nameOverride": "Adamantine Chain Mail",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "adamantine-armor",
+      "nameOverride": "Adamantine Chain Shirt",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "adamantine-armor",
+      "nameOverride": "Adamantine Scale Mail",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bag-of-tricks",
+      "nameOverride": "Gray Bag of Tricks",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bag-of-tricks",
+      "nameOverride": "Rust Bag of Tricks",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bag-of-tricks",
+      "nameOverride": "Tan Bag of Tricks",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "boots-of-the-winterlands",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "circlet-of-blasting",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "deck-of-illusions",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "eversmoking-bottle",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "eyes-of-charming",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "eyes-of-the-eagle",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-silver-raven",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "gem-of-brightness",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "gloves-of-missile-snaring",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "gloves-of-swimming-and-climbing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "gloves-of-thievery",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "headband-of-intellect",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "helm-of-telepathy",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-the-bards-doss-lute",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-the-bards-fochlucan-bandore",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-the-bards-mac-fuirmidh-cittern",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "medallion-of-thoughts",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "necklace-of-adaptation",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "periapt-of-wound-closure",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "pipes-of-haunting",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "pipes-of-the-sewers",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-jumping",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-mind-shielding",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-warmth",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-water-walking",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "quiver-of-ehlonna",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "stone-of-good-luck-luckstone",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wind-fan",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "winged-boots",
+      "probability": 1
+    }
+  ],
+  "Magic Item Table G": [
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table H",
+      "out": {
+        "rowType": "item",
+        "itemKey": "weapon-2",
+        "nameOverride": ", +2"
+      },
+      "probability": 11,
+      "rerollType": "Weapon Type"
+    },
+    {
+      "probability": 3,
+      "rowType": "table",
+      "tableKey": "Auxiliary Table A",
+      "rerollType": "Figurine Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "adamantine-armor",
+      "nameOverride": "Adamantine Breastplate",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "adamantine-armor",
+      "nameOverride": "Adamantine Splint Armor",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "amulet-of-health",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-of-vulnerability",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "arrow-catching-shield",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "belt-of-dwarvenkind",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "belt-of-hill-giant-strength",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "berserker-axe",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "boots-of-levitation",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "boots-of-speed",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bowl-of-commanding-water-elementals",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bracers-of-defense",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "brazier-of-commanding-fire-elementals",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cape-of-the-mountebank",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "censer-of-controlling-air-elementals",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Chain Mail, +1",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Chain Mail of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Chain Shirt, +1",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Chain Shirt of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-displacement",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-the-bat",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cube-of-force",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "daerns-instant-fortress",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dagger-of-venom",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dimensional-shackles",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dragon-slayer",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "elven-chain",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "flame-tongue",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "gem-of-seeing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "giant-slayer",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "glamoured-studded-leather",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "helm-of-teleportation",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "horn-of-blasting",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table C",
+      "probability": 1,
+      "rerollType": "silver or brass"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-the-bards-canaith-mandolin",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-the-bards-cli-lyre",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-awareness",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-protection",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-reserve",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-sustenance",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "iron-bands-of-bilarro",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Leather Armor, +1",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Leather Armor of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "mace-of-disruption",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "mace-of-smiting",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "mace-of-terror",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "mantle-of-spell-resistance",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "necklace-of-prayer-beads",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "periapt-of-proof-against-poison",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-animal-influence",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-evasion",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-feather-falling",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-free-action",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-protection",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "ring-of-resistance",
+        "nameOverride": "Ring of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-spell-storing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-the-ram",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-x-ray-vision",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "robe-of-eyes",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-rulership",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-the-pact-keeper-2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rope-of-entanglement",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Scale Mail, +1",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Scale Mail of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "shield-2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "shield-of-missile-attraction",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-charming",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-healing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-swarming-insects",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-the-woodlands",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-withering",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "stone-of-controlling-earth-elementals",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sun-blade",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sword-of-life-stealing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sword-of-wounding",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "tentacle-rod",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "vicious-weapon",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-binding",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-enemy-detection",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-fear",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-fireballs",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-lightning-bolts",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-paralysis",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-the-war-mage-2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-wonder",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wings-of-flying",
+      "probability": 1
+    }
+  ],
+  "Magic Item Table H": [
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table H",
+      "out": {
+        "rowType": "item",
+        "itemKey": "weapon-3",
+        "nameOverride": ", +3"
+      },
+      "probability": 10,
+      "rerollType": "Weapon Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "amulet-of-the-planes",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "carpet-of-flying",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "carpet-of-flying",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-regeneration",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-shooting-stars",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-telekinesis",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "robe-of-scintillating-colors",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "robe-of-stars",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-absorption",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-alertness",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-security",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-the-pact-keeper-3",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "scimitar-of-speed",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "shield-3",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-fire",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-frost",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-power",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-striking",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-thunder-and-lightning",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sword-of-sharpness",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-polymorph",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-the-war-mage-3",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "adamantine-armor",
+      "nameOverride": "Adamantine Half Plate",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "adamantine-armor",
+      "nameOverride": "Adamantine Plate Armor",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "animated-shield",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "belt-of-fire-giant-strength",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table E",
+      "probability": 1,
+      "rerollType": "frost or stone"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Breastplate, +1",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Breastplate of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "candle-of-invocation",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Chain Mail, +2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Chain Shirt, +2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-arachnida",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dancing-sword",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "demon-armor",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dragon-scale-mail",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dwarven-plate",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dwarven-thrower",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "efreeti-bottle",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-obsidian-steed",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "frost-brand",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "helm-of-brilliance",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "horn-of-valhalla-bronze",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-the-bards-anstruth-harp",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-absorption",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-agility",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-fortitude",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-insight",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-intellect",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-leadership",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-strength",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Leather Armor, +2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "manual-of-bodily-health",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "manual-of-gainful-exercise",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "manual-of-golems",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "manual-of-quickness-of-action",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "mirror-of-life-trapping",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "nine-lives-stealer",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "oathbow",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Scale Mail, +2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "spellguard-shield",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Splint Armor, +1",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Splint Armor of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Studded Leather Armor, +1",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Studded Leather Armor of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "tome-of-clear-thought",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "tome-of-leadership-and-influence",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "tome-of-understanding",
+      "probability": 1
+    }
+  ],
+  "Magic Item Table I": [
+    {
+      "rowType": "item",
+      "itemKey": "defender",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "hammer-of-thunderbolts",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "luck-blade",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sword-of-answering",
+      "probability": 5
+    },
+    {
+      "rowType": "item",
+      "itemKey": "holy-avenger",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-djinni-summoning",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-invisibility",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-spell-turning",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-lordly-might",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-the-magi",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "vorpal-sword",
+      "probability": 3
+    },
+    {
+      "rowType": "item",
+      "itemKey": "belt-of-cloud-giant-strength",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Breastplate, +2",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Chain Mail, +3",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Chain Shirt, +3",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-invisibility",
+      "probability": 2
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table D",
+      "probability": 2,
+      "rerollType": "Crystal Ball Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Half Plate, +1",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "iron-flask",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Leather Armor, +3",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Plate Armor, +1",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "robe-of-the-archmagi",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rod-of-resurrection",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-1",
+      "nameOverride": "Scale Mail, +1",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "scarab-of-protection",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Splint Armor, +2",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Studded Leather Armor, +2",
+      "probability": 2
+    },
+    {
+      "rowType": "item",
+      "itemKey": "well-of-many-worlds",
+      "probability": 2
+    },
+    {
+      "probability": 1,
+      "rowType": "table",
+      "tableKey": "Auxiliary Table B",
+      "rerollType": "Armor"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "apparatus-of-kwalish",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-of-invulnerability",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "belt-of-storm-giant-strength",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cubic-gate",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "deck-of-many-things",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "efreeti-chain",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Half Plate of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "horn-of-valhalla-iron",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-the-bards-ollamh-harp",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-greater-absorption",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-mastery",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ioun-stone-of-regeneration",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "plate-armor-of-etherealness",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table F",
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-resistance",
+        "nameOverride": "Plate Armor of "
+      },
+      "probability": 1,
+      "rerollType": "Resistance Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-air-elemental-command",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-earth-elemental-command",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-fire-elemental-command",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-three-wishes",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ring-of-water-elemental-command",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "sphere-of-annihilation",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "talisman-of-pure-good",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "talisman-of-the-sphere",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "talisman-of-ultimate-evil",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "tome-of-the-stilled-tongue",
+      "probability": 1
+    }
+  ],
+  "Auxiliary Table A": [
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-bronze-griffon",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-ebony-fly",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-golden-lions",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-ivory-goats",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-marble-elephant",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-onyx-dog",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "figurine-of-wondrous-power-serpentine-owl",
+      "probability": 1
+    }
+  ],
+  "Auxiliary Table B": [
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Half Plate, +2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-2",
+      "nameOverride": "Plate Armor, +2",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Studded Leather Armor, +3",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Breastplate, +3",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Splint Armor, +3",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Half Plate, +3",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "armor-3",
+      "nameOverride": "Plate Armor, +3",
+      "probability": 1
+    }
+  ],
+  "Auxiliary Table C": [
+    {
+      "rowType": "item",
+      "itemKey": "horn-of-valhalla-silver",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "horn-of-valhalla-brass",
+      "probability": 1
+    }
+  ],
+  "Auxiliary Table D": [
+    {
+      "rowType": "item",
+      "itemKey": "crystal-ball-of-mind-reading",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "crystal-ball-of-telepathy",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "crystal-ball-of-true-seeing",
+      "probability": 1
+    }
+  ],
+  "Auxiliary Table E": [
+    {
+      "rowType": "item",
+      "itemKey": "belt-of-frost-giant-strength",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "belt-of-stone-giant-strength",
+      "probability": 1
+    }
+  ],
+  "Auxiliary Table F": [
+    {
+      "suffix": "Acid Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Cold Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Fire Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Force Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Lightning Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Necrotic Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Poison Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Psychic Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Radiant Resistance",
+      "probability": 1
+    },
+    {
+      "suffix": "Thunder Resistance",
+      "probability": 1
+    }
+  ],
+  "Auxiliary Table G": [
+    {
+      "prefix": "Arrows",
+      "suffix": "(20)",
+      "probability": 25
+    },
+    {
+      "prefix": "Blowgun needles",
+      "suffix": "(50)",
+      "probability": 1
+    },
+    {
+      "prefix": "Crossbow bolts",
+      "suffix": "(20)",
+      "probability": 25
+    },
+    {
+      "prefix": "Sling bullets",
+      "suffix": "(20)",
+      "probability": 5
+    }
+  ],
+  "Auxiliary Table G2": [
+    {
+      "nameOverride": "Arrows",
+      "suffix": " (20)",
+      "probability": 25
+    },
+    {
+      "nameOverride": "Blowgun needles",
+      "suffix": " (50)",
+      "probability": 1
+    },
+    {
+      "nameOverride": "Crossbow bolts",
+      "suffix": " (20)",
+      "probability": 25
+    },
+    {
+      "nameOverride": "Sling bullets",
+      "suffix": " (20)",
+      "probability": 5
+    }
+  ],
+  "Auxiliary Table H": [
+    {
+      "prefix": "Club",
+      "probability": 1
+    },
+    {
+      "prefix": "Dagger",
+      "probability": 25
+    },
+    {
+      "prefix": "Greatclub",
+      "probability": 1
+    },
+    {
+      "prefix": "Handaxe",
+      "probability": 10
+    },
+    {
+      "prefix": "Javelin",
+      "probability": 20
+    },
+    {
+      "prefix": "Light hammer",
+      "probability": 20
+    },
+    {
+      "prefix": "Mace",
+      "probability": 5
+    },
+    {
+      "prefix": "Quarterstaff",
+      "probability": 15
+    },
+    {
+      "prefix": "Sickle",
+      "probability": 3
+    },
+    {
+      "prefix": "Spear",
+      "probability": 25
+    },
+    {
+      "prefix": "Crossbow, light",
+      "probability": 25
+    },
+    {
+      "prefix": "Dart",
+      "probability": 20
+    },
+    {
+      "prefix": "Shortbow",
+      "probability": 25
+    },
+    {
+      "prefix": "Sling",
+      "probability": 3
+    },
+    {
+      "prefix": "Battleaxe",
+      "probability": 25
+    },
+    {
+      "prefix": "Flail",
+      "probability": 15
+    },
+    {
+      "prefix": "Glaive",
+      "probability": 20
+    },
+    {
+      "prefix": "Greataxe",
+      "probability": 25
+    },
+    {
+      "prefix": "Greatsword",
+      "probability": 25
+    },
+    {
+      "prefix": "Halberd",
+      "probability": 25
+    },
+    {
+      "prefix": "Lance",
+      "probability": 15
+    },
+    {
+      "prefix": "Longsword",
+      "probability": 25
+    },
+    {
+      "prefix": "Maul",
+      "probability": 20
+    },
+    {
+      "prefix": "Morningstar",
+      "probability": 25
+    },
+    {
+      "prefix": "Pike",
+      "probability": 15
+    },
+    {
+      "prefix": "Rapier",
+      "probability": 25
+    },
+    {
+      "prefix": "Scimitar",
+      "probability": 25
+    },
+    {
+      "prefix": "Shortsword",
+      "probability": 25
+    },
+    {
+      "prefix": "Trident",
+      "probability": 20
+    },
+    {
+      "prefix": "War pick",
+      "probability": 15
+    },
+    {
+      "prefix": "Warhammer",
+      "probability": 25
+    },
+    {
+      "prefix": "Whip",
+      "probability": 5
+    },
+    {
+      "prefix": "Blowgun",
+      "probability": 1
+    },
+    {
+      "prefix": "Crossbow, hand",
+      "probability": 25
+    },
+    {
+      "prefix": "Crossbow, heavy",
+      "probability": 25
+    },
+    {
+      "prefix": "Longbow",
+      "probability": 25
+    },
+    {
+      "prefix": "Net",
+      "probability": 3
+    }
+  ],
+  "Auxiliary Table I": [
+    {
+      "nameOverride": "Padded Armor",
+      "probability": 1
+    },
+    {
+      "nameOverride": "Leather Armor",
+      "probability": 30
+    },
+    {
+      "nameOverride": "Studded Leather Armor",
+      "probability": 20
+    },
+    {
+      "nameOverride": "Hide Armor",
+      "probability": 1
+    },
+    {
+      "nameOverride": "Chain Shirt",
+      "probability": 30
+    },
+    {
+      "nameOverride": "Scale Mail",
+      "probability": 30
+    },
+    {
+      "nameOverride": "Breastplate",
+      "probability": 10
+    },
+    {
+      "nameOverride": "Half Plate",
+      "probability": 10
+    },
+    {
+      "nameOverride": "Ring Mail",
+      "probability": 20
+    },
+    {
+      "nameOverride": "Chain Mail",
+      "probability": 20
+    },
+    {
+      "nameOverride": "Splint Armor",
+      "probability": 5
+    },
+    {
+      "nameOverride": "Plate Armor",
+      "probability": 5
+    }
+  ],
+  "Auxiliary Table J": [
+    {
+      "nameOverride": "Hide Armor",
+      "probability": 1
+    },
+    {
+      "nameOverride": "Chain Shirt",
+      "probability": 30
+    },
+    {
+      "nameOverride": "Scale Mail",
+      "probability": 30
+    },
+    {
+      "nameOverride": "Breastplate",
+      "probability": 10
+    },
+    {
+      "nameOverride": "Half Plate",
+      "probability": 10
+    },
+    {
+      "nameOverride": "Ring Mail",
+      "probability": 20
+    },
+    {
+      "nameOverride": "Chain Mail",
+      "probability": 20
+    },
+    {
+      "nameOverride": "Splint Armor",
+      "probability": 5
+    },
+    {
+      "nameOverride": "Plate Armor",
+      "probability": 5
+    }
+  ],
+  "Auxiliary Table K": [
+    {
+      "nameOverride": "Chain Shirt",
+      "probability": 30
+    },
+    {
+      "nameOverride": "Scale Mail",
+      "probability": 30
+    },
+    {
+      "nameOverride": "Breastplate",
+      "probability": 10
+    },
+    {
+      "nameOverride": "Half Plate",
+      "probability": 10
+    },
+    {
+      "nameOverride": "Ring Mail",
+      "probability": 20
+    },
+    {
+      "nameOverride": "Chain Mail",
+      "probability": 20
+    },
+    {
+      "nameOverride": "Splint Armor",
+      "probability": 5
+    },
+    {
+      "nameOverride": "Plate Armor",
+      "probability": 5
+    }
+  ],
+  "Common Magic Items": [
+    {
+      "rowType": "item",
+      "itemKey": "armblade",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table J",
+      "probability": 1,
+      "out": {
+        "rowType": "item",
+        "itemKey": "armor-of-gleaming",
+        "suffix": " of Gleaming"
+      },
+      "rerollType": "Armor Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bead-of-nourishment",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "bead-of-refreshment",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "boots-of-false-tracks",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "candle-of-the-deep",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table I",
+      "probability": 1,
+      "out": {
+        "rowType": "item",
+        "itemKey": "cast-off-armor",
+        "prefix": "Cast-off "
+      },
+      "rerollType": "Armor Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "charlatans-die",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cleansing-stone",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-billowing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "cloak-of-many-fashions",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "clockwork-amulet",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "clothes-of-mending",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dark-shard-amulet",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "dread-helm",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ear-horn-of-hearing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "enduring-spellbook",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ersatz-eye",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "everbright-lantern",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "feather-token",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "glamerweave",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "hat-of-vermin",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "hat-of-wizardry",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "hewards-handy-spice-pouch",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "horn-of-silent-alarm",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "imbued-wood-focus",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-illusions",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "instrument-of-scribing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "keycharm",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "lock-of-trickery",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "moon-touched-sword",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "mystery-key",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "orb-of-direction",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "orb-of-shielding",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "orb-of-time",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "perfume-of-bewitching",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "pipe-of-smoke-monsters",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "pole-of-angling",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "pole-of-collapsing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "pot-of-awakening",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "potion-of-climbing",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "rope-of-mending",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "ruby-of-the-war-mage",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "scribes-pen",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "shield-of-expression",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "shiftweave",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table I",
+      "probability": 1,
+      "out": {
+        "rowType": "item",
+        "itemKey": "smoldering-armor",
+        "prefix": "Smoldering "
+      },
+      "rerollType": "Armor Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "spellshard",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-adornment",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-birdcalls",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "staff-of-flowers",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "talking-doll",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "tankard-of-sobriety",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "unbreakable-arrow",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "veterans-cane",
+      "probability": 1
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Auxiliary Table G2",
+      "probability": 1,
+      "out": {
+        "rowType": "item",
+        "itemKey": "walloping-ammunition",
+        "prefix": "Walloping "
+      },
+      "rerollType": "Ammunition Type"
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-conducting",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-pyrotechnics",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-scowls",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-of-smiles",
+      "probability": 1
+    },
+    {
+      "rowType": "item",
+      "itemKey": "wand-sheath",
+      "probability": 1
+    }
+  ]
+}

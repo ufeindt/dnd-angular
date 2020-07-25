@@ -1,0 +1,3732 @@
+{
+  "adamantine-armor": {
+    "name": "Adamantine Armor",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/adamantine-armor",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (medium or heavy, but not hide)"
+  },
+  "alchemy-jug": {
+    "name": "Alchemy Jug",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/alchemy-jug",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ammunition-1": {
+    "name": "Ammunition, +1",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/ammunition-1",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any ammunition)"
+  },
+  "ammunition-2": {
+    "name": "Ammunition, +2",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/ammunition-2",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any ammunition)"
+  },
+  "ammunition-3": {
+    "name": "Ammunition, +3",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/ammunition-3",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any ammunition)"
+  },
+  "amulet-of-health": {
+    "name": "Amulet of Health",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/amulet-of-health",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "amulet-of-proof-against-detection-and-location": {
+    "name": "Amulet of Proof against Detection and Location",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/amulet-of-proof-against-detection-and-location",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "amulet-of-the-planes": {
+    "name": "Amulet of the Planes",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/amulet-of-the-planes",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "animated-shield": {
+    "name": "Animated Shield",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/animated-shield",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "apparatus-of-kwalish": {
+    "name": "Apparatus of Kwalish",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/apparatus-of-kwalish",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "arcane-propulsion-arm": {
+    "name": "Arcane Propulsion Arm",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/arcane-propulsion-arm",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "creature missing a hand or an arm",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "armblade": {
+    "name": "Armblade",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/armblade",
+    "rarity": "common",
+    "attunement": true,
+    "attunement_condition": "warforged",
+    "consumable": false,
+    "itemType": "Weapon (any one-handed melee weapon)"
+  },
+  "armor-1": {
+    "name": "Armor, +1",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/armor-1",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (light, medium, or heavy)"
+  },
+  "armor-2": {
+    "name": "Armor, +2",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/armor-2",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (light, medium, or heavy)"
+  },
+  "armor-3": {
+    "name": "Armor, +3",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/armor-3",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (light, medium, or heavy)"
+  },
+  "armor-of-gleaming": {
+    "name": "Armor of Gleaming",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/armor-of-gleaming",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (any medium or heavy)"
+  },
+  "armor-of-invulnerability": {
+    "name": "Armor of Invulnerability",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/armor-of-invulnerability",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (plate)"
+  },
+  "armor-of-resistance": {
+    "name": "Armor of Resistance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/armor-of-resistance",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (light, medium, or heavy)"
+  },
+  "armor-of-vulnerability": {
+    "name": "Armor of Vulnerability",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/armor-of-vulnerability",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (plate)"
+  },
+  "arrow-catching-shield": {
+    "name": "Arrow-Catching Shield",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/arrow-catching-shield",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "arrow-of-slaying": {
+    "name": "Arrow of Slaying",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/arrow-of-slaying",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (arrow)"
+  },
+  "bag-of-beans": {
+    "name": "Bag of Beans",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bag-of-beans",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bag-of-devouring": {
+    "name": "Bag of Devouring",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bag-of-devouring",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bag-of-holding": {
+    "name": "Bag of Holding",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bag-of-holding",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bag-of-tricks": {
+    "name": "Bag of Tricks",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bag-of-tricks",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bead-of-force": {
+    "name": "Bead of Force",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bead-of-force",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bead-of-nourishment": {
+    "name": "Bead of Nourishment",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/bead-of-nourishment",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bead-of-refreshment": {
+    "name": "Bead of Refreshment",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/bead-of-refreshment",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "belashyrras-beholder-crown": {
+    "name": "Belashyrra's Beholder Crown",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/belashyrras-beholder-crown",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "belt-of-cloud-giant-strength": {
+    "name": "Belt of Cloud Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/belt-of-cloud-giant-strength",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item",
+    "item_type": "Wondrous item"
+  },
+  "belt-of-dwarvenkind": {
+    "name": "Belt of Dwarvenkind",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/belt-of-dwarvenkind",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "belt-of-fire-giant-strength": {
+    "name": "Belt of Fire Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/belt-of-fire-giant-strength",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item",
+    "item_type": "Wondrous item"
+  },
+  "belt-of-frost-giant-strength": {
+    "name": "Belt of Frost Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/belt-of-frost-giant-strength",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item",
+    "item_type": "Wondrous item"
+  },
+  "belt-of-hill-giant-strength": {
+    "name": "Belt of Hill Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/belt-of-hill-giant-strength",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item",
+    "item_type": "Wondrous item"
+  },
+  "belt-of-stone-giant-strength": {
+    "name": "Belt of Stone Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/belt-of-stone-giant-strength",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item",
+    "item_type": "Wondrous item"
+  },
+  "belt-of-storm-giant-strength": {
+    "name": "Belt of Storm Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/belt-of-storm-giant-strength",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item",
+    "item_type": "Wondrous item"
+  },
+  "berserker-axe": {
+    "name": "Berserker Axe",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/berserker-axe",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any axe)"
+  },
+  "boots-of-elvenkind": {
+    "name": "Boots of Elvenkind",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/boots-of-elvenkind",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "boots-of-false-tracks": {
+    "name": "Boots of False Tracks",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/boots-of-false-tracks",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "boots-of-levitation": {
+    "name": "Boots of Levitation",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/boots-of-levitation",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "boots-of-speed": {
+    "name": "Boots of Speed",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/boots-of-speed",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "boots-of-striding-and-springing": {
+    "name": "Boots of Striding and Springing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/boots-of-striding-and-springing",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "boots-of-the-winterlands": {
+    "name": "Boots of the Winterlands",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/boots-of-the-winterlands",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bowl-of-commanding-water-elementals": {
+    "name": "Bowl of Commanding Water Elementals",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bowl-of-commanding-water-elementals",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bracers-of-archery": {
+    "name": "Bracers of Archery",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bracers-of-archery",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "bracers-of-defense": {
+    "name": "Bracers of Defense",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/bracers-of-defense",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "brazier-of-commanding-fire-elementals": {
+    "name": "Brazier of Commanding Fire Elementals",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/brazier-of-commanding-fire-elementals",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "brooch-of-shielding": {
+    "name": "Brooch of Shielding",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/brooch-of-shielding",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "broom-of-flying": {
+    "name": "Broom of Flying",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/broom-of-flying",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "candle-of-invocation": {
+    "name": "Candle of Invocation",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/candle-of-invocation",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "candle-of-the-deep": {
+    "name": "Candle of the Deep",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/candle-of-the-deep",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cap-of-water-breathing": {
+    "name": "Cap of Water Breathing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cap-of-water-breathing",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cape-of-the-mountebank": {
+    "name": "Cape of the Mountebank",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cape-of-the-mountebank",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "carpet-of-flying": {
+    "name": "Carpet of Flying",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/carpet-of-flying",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cast-off-armor": {
+    "name": "Cast-Off Armor",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/cast-off-armor",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (light, medium, or heavy)"
+  },
+  "censer-of-controlling-air-elementals": {
+    "name": "Censer of Controlling Air Elementals",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/censer-of-controlling-air-elementals",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "charlatans-die": {
+    "name": "Charlatan's Die",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/charlatans-die",
+    "rarity": "common",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "chime-of-opening": {
+    "name": "Chime of Opening",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/chime-of-opening",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "circlet-of-blasting": {
+    "name": "Circlet of Blasting",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/circlet-of-blasting",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cleansing-stone": {
+    "name": "Cleansing Stone",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/cleansing-stone",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-arachnida": {
+    "name": "Cloak of Arachnida",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-arachnida",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-billowing": {
+    "name": "Cloak of Billowing",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-billowing",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-displacement": {
+    "name": "Cloak of Displacement",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-displacement",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-elvenkind": {
+    "name": "Cloak of Elvenkind",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-elvenkind",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-invisibility": {
+    "name": "Cloak of Invisibility",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-invisibility",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-many-fashions": {
+    "name": "Cloak of Many Fashions",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-many-fashions",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-protection": {
+    "name": "Cloak of Protection",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-protection",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-the-bat": {
+    "name": "Cloak of the Bat",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-the-bat",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cloak-of-the-manta-ray": {
+    "name": "Cloak of the Manta Ray",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cloak-of-the-manta-ray",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "clockwork-amulet": {
+    "name": "Clockwork Amulet",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/clockwork-amulet",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "clothes-of-mending": {
+    "name": "Clothes of Mending",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/clothes-of-mending",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "crystal-ball": {
+    "name": "Crystal Ball",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/crystal-ball",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "crystal-ball-of-mind-reading": {
+    "name": "Crystal Ball of Mind Reading",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/crystal-ball-of-mind-reading",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "crystal-ball-of-telepathy": {
+    "name": "Crystal Ball of Telepathy",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/crystal-ball-of-telepathy",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "crystal-ball-of-true-seeing": {
+    "name": "Crystal Ball of True Seeing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/crystal-ball-of-true-seeing",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cube-of-force": {
+    "name": "Cube of Force",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cube-of-force",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "cubic-gate": {
+    "name": "Cubic Gate",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/cubic-gate",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "daerns-instant-fortress": {
+    "name": "Daern's Instant Fortress",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/daerns-instant-fortress",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "dagger-of-venom": {
+    "name": "Dagger of Venom",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dagger-of-venom",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (dagger)"
+  },
+  "dancing-sword": {
+    "name": "Dancing Sword",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dancing-sword",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "dark-shard-amulet": {
+    "name": "Dark Shard Amulet",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/dark-shard-amulet",
+    "rarity": "common",
+    "attunement": true,
+    "attunement_condition": "warlock",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "decanter-of-endless-water": {
+    "name": "Decanter of Endless Water",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/decanter-of-endless-water",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "deck-of-illusions": {
+    "name": "Deck of Illusions",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/deck-of-illusions",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "deck-of-many-things": {
+    "name": "Deck of Many Things",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/deck-of-many-things",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "defender": {
+    "name": "Defender",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/defender",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "demon-armor": {
+    "name": "Demon Armor",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/demon-armor",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (plate)"
+  },
+  "dimensional-shackles": {
+    "name": "Dimensional Shackles",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dimensional-shackles",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "docent": {
+    "name": "Docent",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/docent",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "warforged",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "dragon-scale-mail": {
+    "name": "Dragon Scale Mail",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dragon-scale-mail",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (scale mail)"
+  },
+  "dragon-slayer": {
+    "name": "Dragon Slayer",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dragon-slayer",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "dread-helm": {
+    "name": "Dread Helm",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/dread-helm",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "driftglobe": {
+    "name": "Driftglobe",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/driftglobe",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "dust-of-disappearance": {
+    "name": "Dust of Disappearance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dust-of-disappearance",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "dust-of-dryness": {
+    "name": "Dust of Dryness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dust-of-dryness",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "dust-of-sneezing-and-choking": {
+    "name": "Dust of Sneezing and Choking",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dust-of-sneezing-and-choking",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "dwarven-plate": {
+    "name": "Dwarven Plate",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dwarven-plate",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (plate)"
+  },
+  "dwarven-thrower": {
+    "name": "Dwarven Thrower",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/dwarven-thrower",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "dwarf",
+    "consumable": false,
+    "itemType": "Weapon (warhammer)"
+  },
+  "dyrrns-tentacle-whip": {
+    "name": "Dyrrn's Tentacle Whip",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/dyrrns-tentacle-whip",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (whip)"
+  },
+  "ear-horn-of-hearing": {
+    "name": "Ear Horn of Hearing",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/ear-horn-of-hearing",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "earworm": {
+    "name": "Earworm",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/earworm",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "efreeti-bottle": {
+    "name": "Efreeti Bottle",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/efreeti-bottle",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "efreeti-chain": {
+    "name": "Efreeti Chain",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/efreeti-chain",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (chain mail)"
+  },
+  "elemental-gem": {
+    "name": "Elemental Gem",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/elemental-gem",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "elixir-of-health": {
+    "name": "Elixir of Health",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/elixir-of-health",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Potion"
+  },
+  "elven-chain": {
+    "name": "Elven Chain",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/elven-chain",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (chain shirt)"
+  },
+  "enduring-spellbook": {
+    "name": "Enduring Spellbook",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/enduring-spellbook",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ersatz-eye": {
+    "name": "Ersatz Eye",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/ersatz-eye",
+    "rarity": "common",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "everbright-lantern": {
+    "name": "Everbright Lantern",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/everbright-lantern",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "eversmoking-bottle": {
+    "name": "Eversmoking Bottle",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/eversmoking-bottle",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "eyes-of-charming": {
+    "name": "Eyes of Charming",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/eyes-of-charming",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "eyes-of-minute-seeing": {
+    "name": "Eyes of Minute Seeing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/eyes-of-minute-seeing",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "eyes-of-the-eagle": {
+    "name": "Eyes of the Eagle",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/eyes-of-the-eagle",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "feather-token": {
+    "name": "Feather Token",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/feather-token-feather-fall",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-bronze-griffon": {
+    "name": "Figurine of Wondrous Power (Bronze Griffon)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-bronze-griffon",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-ebony-fly": {
+    "name": "Figurine of Wondrous Power (Ebony Fly)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-ebony-fly",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-golden-lions": {
+    "name": "Figurine of Wondrous Power (Golden Lions)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-golden-lions",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-ivory-goats": {
+    "name": "Figurine of Wondrous Power (Ivory Goats)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-ivory-goats",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-marble-elephant": {
+    "name": "Figurine of Wondrous Power (Marble Elephant)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-marble-elephant",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-obsidian-steed": {
+    "name": "Figurine of Wondrous Power (Obsidian Steed)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-obsidian-steed",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-onyx-dog": {
+    "name": "Figurine of Wondrous Power (Onyx Dog)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-onyx-dog",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-serpentine-owl": {
+    "name": "Figurine of Wondrous Power (Serpentine Owl)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-serpentine-owl",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "figurine-of-wondrous-power-silver-raven": {
+    "name": "Figurine of Wondrous Power (Silver Raven)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power-silver-raven",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "finders-goggles": {
+    "name": "Finder's Goggles",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/finders-goggles",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "creature with the Mark of Finding",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "flame-tongue": {
+    "name": "Flame Tongue",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/flame-tongue",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "folding-boat": {
+    "name": "Folding Boat",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/folding-boat",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "frost-brand": {
+    "name": "Frost Brand",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/frost-brand",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "gauntlets-of-ogre-power": {
+    "name": "Gauntlets of Ogre Power",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/gauntlets-of-ogre-power",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "gem-of-brightness": {
+    "name": "Gem of Brightness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/gem-of-brightness",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "gem-of-seeing": {
+    "name": "Gem of Seeing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/gem-of-seeing",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "giant-slayer": {
+    "name": "Giant Slayer",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/giant-slayer",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any axe or sword)"
+  },
+  "glamerweave": {
+    "name": "Glamerweave",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/glamerweave",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "glamoured-studded-leather": {
+    "name": "Glamoured Studded Leather",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/glamoured-studded-leather",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (studded leather)"
+  },
+  "gloves-of-missile-snaring": {
+    "name": "Gloves of Missile Snaring",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/gloves-of-missile-snaring",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "gloves-of-swimming-and-climbing": {
+    "name": "Gloves of Swimming and Climbing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/gloves-of-swimming-and-climbing",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "gloves-of-thievery": {
+    "name": "Gloves of Thievery",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/gloves-of-thievery",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "goggles-of-night": {
+    "name": "Goggles of Night",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/goggles-of-night",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "hammer-of-thunderbolts": {
+    "name": "Hammer of Thunderbolts",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/hammer-of-thunderbolts",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (maul)"
+  },
+  "hat-of-disguise": {
+    "name": "Hat of Disguise",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/hat-of-disguise",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "hat-of-vermin": {
+    "name": "Hat of Vermin",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/hat-of-vermin",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "hat-of-wizardry": {
+    "name": "Hat of Wizardry",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/hat-of-wizardry",
+    "rarity": "common",
+    "attunement": true,
+    "attunement_condition": "wizard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "headband-of-intellect": {
+    "name": "Headband of Intellect",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/headband-of-intellect",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "helm-of-brilliance": {
+    "name": "Helm of Brilliance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/helm-of-brilliance",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "helm-of-comprehending-languages": {
+    "name": "Helm of Comprehending Languages",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/helm-of-comprehending-languages",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "helm-of-telepathy": {
+    "name": "Helm of Telepathy",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/helm-of-telepathy",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "helm-of-teleportation": {
+    "name": "Helm of Teleportation",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/helm-of-teleportation",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "hewards-handy-haversack": {
+    "name": "Heward's Handy Haversack",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/hewards-handy-haversack",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "hewards-handy-spice-pouch": {
+    "name": "Heward's Handy Spice Pouch",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/hewards-handy-spice-pouch",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "holy-avenger": {
+    "name": "Holy Avenger",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/holy-avenger",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "paladin",
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "horn-of-blasting": {
+    "name": "Horn of Blasting",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/horn-of-blasting",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "horn-of-silent-alarm": {
+    "name": "Horn of Silent Alarm",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/horn-of-silent-alarm",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "horn-of-valhalla-brass": {
+    "name": "Horn of Valhalla, Brass",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/horn-of-valhalla",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "horn-of-valhalla-bronze": {
+    "name": "Horn of Valhalla, Bronze",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/horn-of-valhalla",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "horn-of-valhalla-iron": {
+    "name": "Horn of Valhalla, Iron",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/horn-of-valhalla",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "horn-of-valhalla-silver": {
+    "name": "Horn of Valhalla, Silver",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/horn-of-valhalla",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "horseshoes-of-a-zephyr": {
+    "name": "Horseshoes of a Zephyr",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/horseshoes-of-a-zephyr",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "horseshoes-of-speed": {
+    "name": "Horseshoes of Speed",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/horseshoes-of-speed",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "imbued-wood-focus": {
+    "name": "Imbued Wood Focus",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/imbued-wood-focus",
+    "rarity": "common",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "immovable-rod": {
+    "name": "Immovable Rod",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/immovable-rod",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "instrument-of-illusions": {
+    "name": "Instrument of Illusions",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-illusions",
+    "rarity": "common",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-scribing": {
+    "name": "Instrument of Scribing",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-scribing",
+    "rarity": "common",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-the-bards-anstruth-harp": {
+    "name": "Instrument of the Bards (Anstruth harp)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-the-bards",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "bard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-the-bards-canaith-mandolin": {
+    "name": "Instrument of the Bards (Canaith mandolin)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-the-bards",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "bard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-the-bards-cli-lyre": {
+    "name": "Instrument of the Bards (Cli lyre)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-the-bards",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "bard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-the-bards-doss-lute": {
+    "name": "Instrument of the Bards (Doss lute)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-the-bards",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "bard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-the-bards-fochlucan-bandore": {
+    "name": "Instrument of the Bards (Fochlucan bandore)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-the-bards",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "bard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-the-bards-mac-fuirmidh-cittern": {
+    "name": "Instrument of the Bards (Mac-Fuirmidh cittern)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-the-bards",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "bard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "instrument-of-the-bards-ollamh-harp": {
+    "name": "Instrument of the Bards (Ollamh harp)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/instrument-of-the-bards",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "bard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-absorption": {
+    "name": "Ioun Stone (Absorption)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-absorption",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-agility": {
+    "name": "Ioun Stone (Agility)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-agility",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-awareness": {
+    "name": "Ioun Stone (Awareness)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-awareness",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-fortitude": {
+    "name": "Ioun Stone (Fortitude)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-fortitude",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-greater-absorption": {
+    "name": "Ioun Stone (Greater Absorption)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-greater-absorption",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-insight": {
+    "name": "Ioun Stone (Insight)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-insight",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-intellect": {
+    "name": "Ioun Stone (Intellect)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-intellect",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-leadership": {
+    "name": "Ioun Stone (Leadership)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-leadership",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-mastery": {
+    "name": "Ioun Stone (Mastery)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-mastery",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-protection": {
+    "name": "Ioun Stone (Protection)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-protection",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-regeneration": {
+    "name": "Ioun Stone (Regeneration)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-regeneration",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-reserve": {
+    "name": "Ioun Stone (Reserve)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-reserve",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-strength": {
+    "name": "Ioun Stone (Strength)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-strength",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ioun-stone-of-sustenance": {
+    "name": "Ioun Stone (Sustenance)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ioun-stone-of-sustenance",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "iron-bands-of-bilarro": {
+    "name": "Iron Bands of Bilarro",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/iron-bands-of-bilarro",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "iron-flask": {
+    "name": "Iron Flask",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/iron-flask",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "javelin-of-lightning": {
+    "name": "Javelin of Lightning",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/javelin-of-lightning",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (javelin)"
+  },
+  "keoghtoms-ointment": {
+    "name": "Keoghtom's Ointment",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/keoghtoms-ointment",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "keycharm": {
+    "name": "Keycharm",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/keycharm",
+    "rarity": "common",
+    "attunement": true,
+    "attunement_condition": "creature with the Mark of Warding",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "kyrzins-ooze": {
+    "name": "Kyrzin's Ooze",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/kyrzins-ooze",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "lantern-of-revealing": {
+    "name": "Lantern of Revealing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/lantern-of-revealing",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "living-armor": {
+    "name": "Living Armor",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/living-armor",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (any)"
+  },
+  "living-gloves": {
+    "name": "Living Gloves",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/living-gloves",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "lock-of-trickery": {
+    "name": "Lock of Trickery",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/lock-of-trickery",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "luck-blade": {
+    "name": "Luck Blade",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/luck-blade",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "mace-of-disruption": {
+    "name": "Mace of Disruption",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/mace-of-disruption",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (mace)"
+  },
+  "mace-of-smiting": {
+    "name": "Mace of Smiting",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/mace-of-smiting",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (mace)"
+  },
+  "mace-of-terror": {
+    "name": "Mace of Terror",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/mace-of-terror",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (mace)"
+  },
+  "mantle-of-spell-resistance": {
+    "name": "Mantle of Spell Resistance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/mantle-of-spell-resistance",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "manual-of-bodily-health": {
+    "name": "Manual of Bodily Health",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/manual-of-bodily-health",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "manual-of-gainful-exercise": {
+    "name": "Manual of Gainful Exercise",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/manual-of-gainful-exercise",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "manual-of-golems": {
+    "name": "Manual of Golems",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/manual-of-golems",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "manual-of-quickness-of-action": {
+    "name": "Manual of Quickness of Action",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/manual-of-quickness-of-action",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "mariners-armor": {
+    "name": "Mariner's Armor",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/mariners-armor",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (light, medium, or heavy)"
+  },
+  "medallion-of-thoughts": {
+    "name": "Medallion of Thoughts",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/medallion-of-thoughts",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "mirror-of-life-trapping": {
+    "name": "Mirror of Life Trapping",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/mirror-of-life-trapping",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "mithral-armor": {
+    "name": "Mithral Armor",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/mithral-armor",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (medium or heavy, but not hide)"
+  },
+  "moon-touched-sword": {
+    "name": "Moon-Touched Sword",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/moon-touched-sword",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "mystery-key": {
+    "name": "Mystery Key",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/mystery-key",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "necklace-of-adaptation": {
+    "name": "Necklace of Adaptation",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/necklace-of-adaptation",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "necklace-of-fireballs": {
+    "name": "Necklace of Fireballs",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/necklace-of-fireballs",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "necklace-of-prayer-beads": {
+    "name": "Necklace of Prayer Beads",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/necklace-of-prayer-beads",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "cleric, druid, or paladin",
+    "consumable": false,
+    "itemType": "Wondrous item, rare (requires attunement by a cleric, druid"
+  },
+  "nine-lives-stealer": {
+    "name": "Nine Lives Stealer",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/nine-lives-stealer",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "nolzurs-marvelous-pigments": {
+    "name": "Nolzur's Marvelous Pigments",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/nolzurs-marvelous-pigments",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "oathbow": {
+    "name": "Oathbow",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/oathbow",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (longbow)"
+  },
+  "oil-of-etherealness": {
+    "name": "Oil of Etherealness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/oil-of-etherealness",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Potion"
+  },
+  "oil-of-sharpness": {
+    "name": "Oil of Sharpness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/oil-of-sharpness",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Potion"
+  },
+  "oil-of-slipperiness": {
+    "name": "Oil of Slipperiness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/oil-of-slipperiness",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Potion"
+  },
+  "orb-of-direction": {
+    "name": "Orb of Direction",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/orb-of-direction",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "orb-of-shielding": {
+    "name": "Orb of Shielding",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/orb-of-shielding",
+    "rarity": "common",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "orb-of-time": {
+    "name": "Orb of Time",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/orb-of-time",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "pearl-of-power": {
+    "name": "Pearl of Power",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/pearl-of-power",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "perfume-of-bewitching": {
+    "name": "Perfume of Bewitching",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/perfume-of-bewitching",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "periapt-of-health": {
+    "name": "Periapt of Health",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/periapt-of-health",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "periapt-of-proof-against-poison": {
+    "name": "Periapt of Proof against Poison",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/periapt-of-proof-against-poison",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "periapt-of-wound-closure": {
+    "name": "Periapt of Wound Closure",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/periapt-of-wound-closure",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "philter-of-love": {
+    "name": "Philter of Love",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/philter-of-love",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Potion"
+  },
+  "pipe-of-smoke-monsters": {
+    "name": "Pipe of Smoke Monsters",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/pipe-of-smoke-monsters",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "pipes-of-haunting": {
+    "name": "Pipes of Haunting",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/pipes-of-haunting",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "pipes-of-the-sewers": {
+    "name": "Pipes of the Sewers",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/pipes-of-the-sewers",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "plate-armor-of-etherealness": {
+    "name": "Plate Armor of Etherealness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/plate-armor-of-etherealness",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (plate)"
+  },
+  "pole-of-angling": {
+    "name": "Pole of Angling",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/pole-of-angling",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "pole-of-collapsing": {
+    "name": "Pole of Collapsing",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/pole-of-collapsing",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "portable-hole": {
+    "name": "Portable Hole",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/portable-hole",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "pot-of-awakening": {
+    "name": "Pot of Awakening",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/pot-of-awakening",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "potion-of-animal-friendship": {
+    "name": "Potion of Animal Friendship",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-animal-friendship",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-clairvoyance": {
+    "name": "Potion of Clairvoyance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-clairvoyance",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-climbing": {
+    "name": "Potion of Climbing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-climbing",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-cloud-giant-strength": {
+    "name": "Potion of Cloud Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-cloud-giant-strength",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-diminution": {
+    "name": "Potion of Diminution",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-diminution",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-fire-breath": {
+    "name": "Potion of Fire Breath",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-fire-breath",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-fire-giant-strength": {
+    "name": "Potion of Fire Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-fire-giant-strength",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-flying": {
+    "name": "Potion of Flying",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-flying",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-frost-giant-strength": {
+    "name": "Potion of Frost Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-frost-giant-strength",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-gaseous-form": {
+    "name": "Potion of Gaseous Form",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-gaseous-form",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-growth": {
+    "name": "Potion of Growth",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-growth",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-healing": {
+    "name": "Potion of Healing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-healing",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-healing-greater": {
+    "name": "Potion of Greater Healing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-healing-greater",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-healing-superior": {
+    "name": "Potion of Superior Healing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-healing-superior",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-healing-supreme": {
+    "name": "Potion of Supreme Healing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-healing-supreme",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-heroism": {
+    "name": "Potion of Heroism",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-heroism",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-hill-giant-strength": {
+    "name": "Potion of Hill Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-hill-giant-strength",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-invisibility": {
+    "name": "Potion of Invisibility",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-invisibility",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-invulnerability": {
+    "name": "Potion of Invulnerability",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-invulnerability",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-longevity": {
+    "name": "Potion of Longevity",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-longevity",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-mind-reading": {
+    "name": "Potion of Mind Reading",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-mind-reading",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-poison": {
+    "name": "Potion of Poison",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-poison",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-resistance": {
+    "name": "Potion of Resistance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-resistance",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-speed": {
+    "name": "Potion of Speed",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-speed",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-stone-giant-strength": {
+    "name": "Potion of Stone Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-stone-giant-strength",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-storm-giant-strength": {
+    "name": "Potion of Storm Giant Strength",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-storm-giant-strength",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-vitality": {
+    "name": "Potion of Vitality",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-vitality",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "potion-of-water-breathing": {
+    "name": "Potion of Water Breathing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/potion-of-water-breathing",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Potion"
+  },
+  "prosthetic-limb": {
+    "name": "Prosthetic Limb",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/prosthetic-limb",
+    "rarity": [],
+    "attunement": false,
+    "consumable": false,
+    "itemType": ""
+  },
+  "quaals-feather-token": {
+    "name": "Quaal's Feather Token",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/quaals-feather-token",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "quiver-of-ehlonna": {
+    "name": "Quiver of Ehlonna",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/quiver-of-ehlonna",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ring-of-air-elemental-command": {
+    "name": "Ring of Air Elemental Command",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-air-elemental-command",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-animal-influence": {
+    "name": "Ring of Animal Influence",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-animal-influence",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-djinni-summoning": {
+    "name": "Ring of Djinni Summoning",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-djinni-summoning",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-earth-elemental-command": {
+    "name": "Ring of Earth Elemental Command",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-earth-elemental-command",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-evasion": {
+    "name": "Ring of Evasion",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-evasion",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-feather-falling": {
+    "name": "Ring of Feather Falling",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-feather-falling",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-fire-elemental-command": {
+    "name": "Ring of Fire Elemental Command",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-fire-elemental-command",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-free-action": {
+    "name": "Ring of Free Action",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-free-action",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-invisibility": {
+    "name": "Ring of Invisibility",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-invisibility",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-jumping": {
+    "name": "Ring of Jumping",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-jumping",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-mind-shielding": {
+    "name": "Ring of Mind Shielding",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-mind-shielding",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-protection": {
+    "name": "Ring of Protection",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-protection",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-regeneration": {
+    "name": "Ring of Regeneration",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-regeneration",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-resistance": {
+    "name": "Ring of Resistance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-resistance",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-shooting-stars": {
+    "name": "Ring of Shooting Stars",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-shooting-stars",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "ors at night",
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-spell-storing": {
+    "name": "Ring of Spell Storing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-spell-storing",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-spell-turning": {
+    "name": "Ring of Spell Turning",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-spell-turning",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-swimming": {
+    "name": "Ring of Swimming",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-swimming",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-telekinesis": {
+    "name": "Ring of Telekinesis",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-telekinesis",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-the-ram": {
+    "name": "Ring of the Ram",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-the-ram",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-three-wishes": {
+    "name": "Ring of Three Wishes",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-three-wishes",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-warmth": {
+    "name": "Ring of Warmth",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-warmth",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-water-elemental-command": {
+    "name": "Ring of Water Elemental Command",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-water-elemental-command",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-water-walking": {
+    "name": "Ring of Water Walking",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-water-walking",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "ring-of-x-ray-vision": {
+    "name": "Ring of X-ray Vision",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/ring-of-x-ray-vision",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Ring"
+  },
+  "robe-of-eyes": {
+    "name": "Robe of Eyes",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/robe-of-eyes",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "robe-of-scintillating-colors": {
+    "name": "Robe of Scintillating Colors",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/robe-of-scintillating-colors",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "robe-of-stars": {
+    "name": "Robe of Stars",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/robe-of-stars",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "robe-of-the-archmagi": {
+    "name": "Robe of the Archmagi",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/robe-of-the-archmagi",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "sorcerer, warlock, or wizard",
+    "consumable": false,
+    "itemType": "Wondrous item, legendary (requires attunement by a sorcerer, warlock"
+  },
+  "robe-of-useful-items": {
+    "name": "Robe of Useful Items",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/robe-of-useful-items",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "rod-of-absorption": {
+    "name": "Rod of Absorption",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-absorption",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rod-of-alertness": {
+    "name": "Rod of Alertness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-alertness",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rod-of-lordly-might": {
+    "name": "Rod of Lordly Might",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-lordly-might",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rod-of-resurrection": {
+    "name": "Rod of Resurrection",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-resurrection",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "cleric, druid, or paladin",
+    "consumable": false,
+    "itemType": "Rod, legendary (requires attunement by a cleric, druid"
+  },
+  "rod-of-rulership": {
+    "name": "Rod of Rulership",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-rulership",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rod-of-security": {
+    "name": "Rod of Security",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-security",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rod-of-the-pact-keeper-1": {
+    "name": "Rod of the Pact Keeper, +1",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-the-pact-keeper-1",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "warlock",
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rod-of-the-pact-keeper-2": {
+    "name": "Rod of the Pact Keeper, +2",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-the-pact-keeper-2",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "warlock",
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rod-of-the-pact-keeper-3": {
+    "name": "Rod of the Pact Keeper, +3",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rod-of-the-pact-keeper-3",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "warlock",
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "rope-of-climbing": {
+    "name": "Rope of Climbing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rope-of-climbing",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "rope-of-entanglement": {
+    "name": "Rope of Entanglement",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/rope-of-entanglement",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "rope-of-mending": {
+    "name": "Rope of Mending",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/rope-of-mending",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ruby-of-the-war-mage": {
+    "name": "Ruby of the War Mage",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/ruby-of-the-war-mage",
+    "rarity": "common",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "saddle-of-the-cavalier": {
+    "name": "Saddle of the Cavalier",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/saddle-of-the-cavalier",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "scarab-of-protection": {
+    "name": "Scarab of Protection",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/scarab-of-protection",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "scimitar-of-speed": {
+    "name": "Scimitar of Speed",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/scimitar-of-speed",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (scimitar)"
+  },
+  "scribes-pen": {
+    "name": "Scribe's Pen",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/scribes-pen",
+    "rarity": "common",
+    "attunement": true,
+    "attunement_condition": "creature with the Mark of Scribing",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "scroll-of-protection": {
+    "name": "Scroll of Protection",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/scroll-of-protection",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Scroll"
+  },
+  "sending-stones": {
+    "name": "Sending Stones",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sending-stones",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "sentinel-shield": {
+    "name": "Sentinel Shield",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sentinel-shield",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "shield-1": {
+    "name": "Shield, +1",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/shield-1",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "shield-2": {
+    "name": "Shield, +2",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/shield-2",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "shield-3": {
+    "name": "Shield, +3",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/shield-3",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "shield-of-expression": {
+    "name": "Shield of Expression",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/shield-of-expression",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "shield-of-missile-attraction": {
+    "name": "Shield of Missile Attraction",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/shield-of-missile-attraction",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "shiftweave": {
+    "name": "Shiftweave",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/shiftweave",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "slippers-of-spider-climbing": {
+    "name": "Slippers of Spider Climbing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/slippers-of-spider-climbing",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "smoldering-armor": {
+    "name": "Smoldering Armor",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/smoldering-armor",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Armor (any)"
+  },
+  "sovereign-glue": {
+    "name": "Sovereign Glue",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sovereign-glue",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "speaking-stone": {
+    "name": "Speaking Stone",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/speaking-stone",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "spell-scroll-1st-level": {
+    "name": "Spell Scroll (1st Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-1st-level",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-2nd-level": {
+    "name": "Spell Scroll (2nd Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-2nd-level",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-3rd-level": {
+    "name": "Spell Scroll (3rd Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-3rd-level",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-4th-level": {
+    "name": "Spell Scroll (4th Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-4th-level",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-5th-level": {
+    "name": "Spell Scroll (5th Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-5th-level",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-6th-level": {
+    "name": "Spell Scroll (6th Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-6th-level",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-7th-level": {
+    "name": "Spell Scroll (7th Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-7th-level",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-8th-level": {
+    "name": "Spell Scroll (8th Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-8th-level",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-9th-level": {
+    "name": "Spell Scroll (9th Level)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-9th-level",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spell-scroll-cantrip": {
+    "name": "Spell Scroll (Cantrip)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spell-scroll-0-cantrip",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": true,
+    "itemType": "Scroll"
+  },
+  "spellguard-shield": {
+    "name": "Spellguard Shield",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/spellguard-shield",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Armor (shield)"
+  },
+  "spellshard": {
+    "name": "Spellshard",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/spellshard",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "sphere-of-annihilation": {
+    "name": "Sphere of Annihilation",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sphere-of-annihilation",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "staff-of-adornment": {
+    "name": "Staff of Adornment",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-adornment",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Staff"
+  },
+  "staff-of-birdcalls": {
+    "name": "Staff of Birdcalls",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-birdcalls",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Staff"
+  },
+  "staff-of-charming": {
+    "name": "Staff of Charming",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-charming",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "bard, cleric, druid, sorcerer, warlock, or wizard",
+    "consumable": false,
+    "itemType": "Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock"
+  },
+  "staff-of-fire": {
+    "name": "Staff of Fire",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-fire",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "druid, sorcerer, warlock, or wizard",
+    "consumable": false,
+    "itemType": "Staff, very rare (requires attunement by a druid, sorcerer, warlock"
+  },
+  "staff-of-flowers": {
+    "name": "Staff of Flowers",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-flowers",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Staff"
+  },
+  "staff-of-frost": {
+    "name": "Staff of Frost",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-frost",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "druid, sorcerer, warlock, or wizard",
+    "consumable": false,
+    "itemType": "Staff, very rare (requires attunement by a druid, sorcerer, warlock"
+  },
+  "staff-of-healing": {
+    "name": "Staff of Healing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-healing",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "bard, cleric, or druid",
+    "consumable": false,
+    "itemType": "Staff, rare (requires attunement by a bard, cleric"
+  },
+  "staff-of-power": {
+    "name": "Staff of Power",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-power",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "sorcerer, warlock, or wizard",
+    "consumable": false,
+    "itemType": "Staff, very rare (requires attunement by a sorcerer, warlock"
+  },
+  "staff-of-striking": {
+    "name": "Staff of Striking",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-striking",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Staff"
+  },
+  "staff-of-swarming-insects": {
+    "name": "Staff of Swarming Insects",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-swarming-insects",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "bard, cleric, druid, sorcerer, warlock, or wizard",
+    "consumable": false,
+    "itemType": "Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock"
+  },
+  "staff-of-the-adder": {
+    "name": "Staff of the Adder",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-the-adder",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "cleric, druid, or warlock",
+    "consumable": false,
+    "itemType": "Staff, uncommon (requires attunement by a cleric, druid"
+  },
+  "staff-of-the-magi": {
+    "name": "Staff of the Magi",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-the-magi",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "sorcerer, warlock, or wizard",
+    "consumable": false,
+    "itemType": "Staff, legendary (requires attunement by a sorcerer, warlock"
+  },
+  "staff-of-the-python": {
+    "name": "Staff of the Python",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-the-python",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "cleric, druid, or warlock",
+    "consumable": false,
+    "itemType": "Staff, uncommon (requires attunement by a cleric, druid"
+  },
+  "staff-of-the-woodlands": {
+    "name": "Staff of the Woodlands",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-the-woodlands",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "druid",
+    "consumable": false,
+    "itemType": "Staff"
+  },
+  "staff-of-thunder-and-lightning": {
+    "name": "Staff of Thunder and Lightning",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-thunder-and-lightning",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Staff"
+  },
+  "staff-of-withering": {
+    "name": "Staff of Withering",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/staff-of-withering",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "cleric, druid, or warlock",
+    "consumable": false,
+    "itemType": "Staff, rare (requires attunement by a cleric, druid"
+  },
+  "stone-of-controlling-earth-elementals": {
+    "name": "Stone of Controlling Earth Elementals",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/stone-of-controlling-earth-elementals",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "stone-of-good-luck-luckstone": {
+    "name": "Stone of Good Luck (Luckstone)",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/stone-of-good-luck-luckstone",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "sun-blade": {
+    "name": "Sun Blade",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sun-blade",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (longsword)"
+  },
+  "sword-of-answering": {
+    "name": "Sword of Answering",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sword-of-answering",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "creature with the same alignment as the sword",
+    "consumable": false,
+    "itemType": "Weapon (longsword)"
+  },
+  "sword-of-life-stealing": {
+    "name": "Sword of Life Stealing",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sword-of-life-stealing",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "sword-of-sharpness": {
+    "name": "Sword of Sharpness",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sword-of-sharpness",
+    "rarity": "very rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword that deals slashing damage)"
+  },
+  "sword-of-vengeance": {
+    "name": "Sword of Vengeance",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sword-of-vengeance",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "sword-of-wounding": {
+    "name": "Sword of Wounding",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/sword-of-wounding",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword)"
+  },
+  "talisman-of-pure-good": {
+    "name": "Talisman of Pure Good",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/talisman-of-pure-good",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "creature of good alignment",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "talisman-of-the-sphere": {
+    "name": "Talisman of the Sphere",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/talisman-of-the-sphere",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "talisman-of-ultimate-evil": {
+    "name": "Talisman of Ultimate Evil",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/talisman-of-ultimate-evil",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "creature of evil alignment",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "talking-doll": {
+    "name": "Talking Doll",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/talking-doll",
+    "rarity": "common",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "tankard-of-sobriety": {
+    "name": "Tankard of Sobriety",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/tankard-of-sobriety",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "tentacle-rod": {
+    "name": "Tentacle Rod",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/tentacle-rod",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Rod"
+  },
+  "tome-of-clear-thought": {
+    "name": "Tome of Clear Thought",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/tome-of-clear-thought",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "tome-of-leadership-and-influence": {
+    "name": "Tome of Leadership and Influence",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/tome-of-leadership-and-influence",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "tome-of-the-stilled-tongue": {
+    "name": "Tome of the Stilled Tongue",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/tome-of-the-stilled-tongue",
+    "rarity": "legendary",
+    "attunement": true,
+    "attunement_condition": "wizard",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "tome-of-understanding": {
+    "name": "Tome of Understanding",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/tome-of-understanding",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "trident-of-fish-command": {
+    "name": "Trident of Fish Command",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/trident-of-fish-command",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (trident)"
+  },
+  "unbreakable-arrow": {
+    "name": "Unbreakable Arrow",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/unbreakable-arrow",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (arrow)"
+  },
+  "uncommon-glamerweave": {
+    "name": "Uncommon Glamerweave",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/uncommon-glamerweave",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "universal-solvent": {
+    "name": "Universal Solvent",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/universal-solvent",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "ventilating-lungs": {
+    "name": "Ventilating Lungs",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/ventilating-lungs",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "veterans-cane": {
+    "name": "Veteran's Cane",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/veterans-cane",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "vicious-weapon": {
+    "name": "Vicious Weapon",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/vicious-weapon",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any)"
+  },
+  "vorpal-sword": {
+    "name": "Vorpal Sword",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/vorpal-sword",
+    "rarity": "legendary",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any sword that deals slashing damage)"
+  },
+  "walloping-ammunition": {
+    "name": "Walloping Ammunition",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/walloping-ammunition",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any ammunition)"
+  },
+  "wand-of-binding": {
+    "name": "Wand of Binding",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-binding",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-conducting": {
+    "name": "Wand of Conducting",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-conducting",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-enemy-detection": {
+    "name": "Wand of Enemy Detection",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-enemy-detection",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-fear": {
+    "name": "Wand of Fear",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-fear",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-fireballs": {
+    "name": "Wand of Fireballs",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-fireballs",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-lightning-bolts": {
+    "name": "Wand of Lightning Bolts",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-lightning-bolts",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-magic-detection": {
+    "name": "Wand of Magic Detection",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-magic-detection",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-magic-missiles": {
+    "name": "Wand of Magic Missiles",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-magic-missiles",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-paralysis": {
+    "name": "Wand of Paralysis",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-paralysis",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-polymorph": {
+    "name": "Wand of Polymorph",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-polymorph",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-pyrotechnics": {
+    "name": "Wand of Pyrotechnics",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-pyrotechnics",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-scowls": {
+    "name": "Wand of Scowls",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-scowls",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-secrets": {
+    "name": "Wand of Secrets",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-secrets",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-smiles": {
+    "name": "Wand of Smiles",
+    "source": "xgte",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-smiles",
+    "rarity": "common",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-the-war-mage-1": {
+    "name": "Wand of the War Mage, +1",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-1",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-the-war-mage-2": {
+    "name": "Wand of the War Mage, +2",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-2",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-the-war-mage-3": {
+    "name": "Wand of the War Mage, +3",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-the-war-mage-3",
+    "rarity": "very rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-web": {
+    "name": "Wand of Web",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-web",
+    "rarity": "uncommon",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-of-wonder": {
+    "name": "Wand of Wonder",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wand-of-wonder",
+    "rarity": "rare",
+    "attunement": true,
+    "attunement_condition": "spellcaster",
+    "consumable": false,
+    "itemType": "Wand"
+  },
+  "wand-sheath": {
+    "name": "Wand Sheath",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/wand-sheath",
+    "rarity": "common",
+    "attunement": true,
+    "attunement_condition": "warforged",
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "weapon-1": {
+    "name": "Weapon, +1",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/weapon-1",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any)"
+  },
+  "weapon-2": {
+    "name": "Weapon, +2",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/weapon-2",
+    "rarity": "rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any)"
+  },
+  "weapon-3": {
+    "name": "Weapon, +3",
+    "source": "dmg",
+    "link": "http://www.dndbeyond.com/magic-items/weapon-3",
+    "rarity": "very rare",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Weapon (any)"
+  },
+  "weapon-of-warning": {
+    "name": "Weapon of Warning",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/weapon-of-warning",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Weapon (any)"
+  },
+  "well-of-many-worlds": {
+    "name": "Well of Many Worlds",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/well-of-many-worlds",
+    "rarity": "legendary",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "wheel-of-wind-and-water": {
+    "name": "Wheel of Wind and Water",
+    "source": "erftlw",
+    "link": "https://www.dndbeyond.com/magic-items/wheel-of-wind-and-water",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "wind-fan": {
+    "name": "Wind Fan",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wind-fan",
+    "rarity": "uncommon",
+    "attunement": false,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "winged-boots": {
+    "name": "Winged Boots",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/winged-boots",
+    "rarity": "uncommon",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  },
+  "wings-of-flying": {
+    "name": "Wings of Flying",
+    "source": "dmg",
+    "link": "https://www.dndbeyond.com/magic-items/wings-of-flying",
+    "rarity": "rare",
+    "attunement": true,
+    "consumable": false,
+    "itemType": "Wondrous item"
+  }
+}

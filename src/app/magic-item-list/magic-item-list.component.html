@@ -1,0 +1,39 @@
+<div class="row">
+  <div class="col-xs-10">
+    <form class="form-inline">
+      <label class="margin-right" for="roll">Roll:</label>
+      <input class="form-control" name="roll" type="number" value="0" #rollInput>
+      <button class="btn btn-success" type="button" (click)="onGenerateShop()">
+        Generate Magic Shop
+      </button>
+    </form>
+    <form class="form-inline">
+      <label class="margin-right" for="roll">Add Item from Table:</label>
+      <select class="form-control" name="roll" type="text" #tableKeyInput>
+        <option *ngFor="let tableKey of magicItemTableKeys" [value]="tableKey">
+          {{ tableKey }}
+        </option>
+      </select>
+      <button class="btn btn-success" type="button" (click)="onAddItem()">
+        Add
+      </button>
+    </form>
+    <form class="form-inline">
+      <button class="btn btn-success" type="button" (click)="onSort()">
+        Sort
+      </button>
+      <button class="btn btn-danger" type="button" (click)="onClear()">
+        Clear
+      </button>
+    </form>
+    <hr>
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let rarity of currentRarities">
+        <h3>{{ rarity }} ({{ magicItems[rarity].length }} items)</h3>
+        <app-magic-item
+          *ngFor="let magicItem of magicItems[rarity]; let k = index"
+          [magicItem]="magicItem" [index]="k" [listRarity]="rarity"></app-magic-item>
+      </li>
+    </ul>
+  </div>
+</div>

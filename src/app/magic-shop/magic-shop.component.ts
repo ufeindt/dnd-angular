@@ -4,11 +4,11 @@ import { MagicItem } from './magic-item/magic-item.model';
 import { MagicShopService } from './magic-shop.service';
 
 @Component({
-  selector: 'app-magic-item-list',
-  templateUrl: './magic-item-list.component.html',
-  styleUrls: ['./magic-item-list.component.css']
+  selector: 'app-magic-shop',
+  templateUrl: './magic-shop.component.html',
+  styleUrls: ['./magic-shop.component.css']
 })
-export class MagicItemListComponent implements OnInit {
+export class MagicShopComponent implements OnInit {
   @ViewChild('rollInput', {static: true}) rollInputRef: ElementRef;
   @ViewChild('tableKeyInput', {static: true}) tableKeyInputRef: ElementRef;
 

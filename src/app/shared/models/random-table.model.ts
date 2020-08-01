@@ -17,15 +17,15 @@ export class RandomTable {
   }
 
   getRandomEntry() {
-    let i = Math.floor(Math.random() * this.rollToEntry.length);
-    return this.rows[this.rollToEntry[i]];
-  }
-
-  getEntryByIndex(i: number) {
-    return this.rows[i];
+    let i = Math.floor(Math.random() * this.rollToEntry.length + 1);
+    return this.getEntryByRoll(i);
   }
 
   getEntryByRoll(i: number) {
-    return this.rows[this.rollToEntry[i - 1]];
+    return this.getEntryByIndex(this.rollToEntry[i - 1]);
+  }
+
+  getEntryByIndex(i: number) {
+    return JSON.parse(JSON.stringify(this.rows[i]));
   }
 }

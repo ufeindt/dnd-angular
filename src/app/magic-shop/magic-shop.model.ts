@@ -1,52 +1,27 @@
-import { RandomTable } from '../shared/models/random-table.model';
-import { RandomSkillTable } from '../shared/models/random-skill-table.model';
 import { MagicItem } from './magic-item/magic-item.model';
+import { MagicItemTables } from '../shared/models/magic-item-tables.model';
+import { MagicItemLookup } from '../shared/models/magic-item-lookup.model';
+import { MagicShopTable } from '../shared/models/magic-shop-table.model';
+import { SpellTables } from '../shared/models/spell-tables.model';
 
 export class MagicShop {
-  private magicItemTables: {[key: string]: any} = {};
-  private magicItems: {[key: string]: any}[] = [];
-  private spells: RandomTable[] = [];
-  private magicShopTable: RandomSkillTable;
+  private magicItemTables: MagicItemTables = new MagicItemTables();
+  private magicItems: MagicItemLookup = new MagicItemLookup();
+  private spells: SpellTables = new SpellTables();
+  private magicShopTable: MagicShopTable = new MagicShopTable();
   private rarities: string[] = ['common', 'uncommon', 'rare', 'very rare', 'legendary'];
   offers: {[key: string]: MagicItem[]} = {};
 
-  constructor(magicItemTableData, magicItemData, spellData, magicShopData) {
-    for (const name in magicItemTableData) {
-      const table = magicItemTableData[name];
-      this.magicItemTables[name] = new RandomTable(table);
-    }
-
-    this.magicItems = magicItemData;
-
-    this.spells = [];
-    for (let i = 0; i < 10; i++) {
-      var tmpSpells = [];
-      for (const name in spellData) {
-        var spell = spellData[name];
-        if (spell.level === i) {
-          spell.probability = 1;
-          tmpSpells.push(spell)
-        }
-      }
-      this.spells.push(new RandomTable(tmpSpells));
-    }
-
-    this.magicShopTable = new RandomSkillTable(magicShopData);
+  constructor() {
   }
 
   getRandomItem(tableKey: string) {
-    var item = this.magicItemTables[tableKey].getRandomEntry();
+    var item = this.magicItemTables.getRandomMagicItem(tableKey);
     return this.processItem(item, tableKey);
   }
 
   getTableKeys() {
-    var tableKeys: string[] = [];
-    for (const name in this.magicItemTables) {
-      if(!name.includes('Aux')) {
-        tableKeys.push(name);
-      }
-    }
-    return tableKeys;
+    return this.magicItemTables.getTableKeys('Aux');
   }
 
   addRandomItem(tableKey: string) {
@@ -153,7 +128,7 @@ export class MagicShop {
   processItem(item: {[key: string]: any}, tableKey: string, price?: number) {
     switch(item.rowType) {
       case 'item': {
-        var newItem = JSON.parse(JSON.stringify(this.magicItems[item.itemKey]));
+        var newItem = this.magicItems.lookUpMagicItem(item.itemKey);
         if (item.nameOverride !== undefined) {
           newItem.name = item.nameOverride;
         }
@@ -189,7 +164,7 @@ export class MagicShop {
         item.out.originalItem = JSON.parse(JSON.stringify(item));
         item.out.rerollType = item.rerollType;
 
-        let newItem = JSON.parse(JSON.stringify(this.magicItemTables[item.tableKey].getRandomEntry()));
+        let newItem = this.magicItemTables.getRandomMagicItem(tableKey);
         for (const key in newItem) {
           item['out'][key] = newItem[key];
         }
@@ -200,7 +175,7 @@ export class MagicShop {
         item.out.originalItem = JSON.parse(JSON.stringify(item));
         item.out.rerollType = 'Spell';
 
-        let spell = JSON.parse(JSON.stringify(this.spells[item.spellLevel].getRandomEntry()));
+        let spell = this.spells.getRandomSpell(item.spellLevel);
         item.out[item.spellNameKey] = spell.name;
         item.out[item.spellLinkKey] = spell.link;
 
@@ -247,14 +222,4 @@ export class MagicShop {
       return price;
     }
   }
-
-  // getItemByIndex(name: string, i: number) {
-  //   var item = this.magicItemTables[name].getEntryByIndex(i);
-  //   return this.processItem(item);
-  // }
-
-  // getItemByRoll(name: string, i: number) {
-  //   var item = this.magicItemTables[name].getEntryByRoll(i);
-  //   return this.processItem(item);
-  // }
 }

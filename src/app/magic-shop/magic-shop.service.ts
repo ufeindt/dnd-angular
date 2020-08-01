@@ -1,9 +1,5 @@
 import { EventEmitter } from '@angular/core';
 
-import  magicItemTableData  from  '../data/random-magic-items.json';
-import  magicItemData  from  '../data/magic-items.json';
-import  magicShopData  from  '../data/magic-shop.json';
-import  spellData  from  '../data/spells.json';
 import { MagicItem } from './magic-item/magic-item.model';
 import { MagicShop } from './magic-shop.model'
 
@@ -12,8 +8,7 @@ export class MagicShopService {
   offersChanged = new EventEmitter<{[key: string]: MagicItem[]}>();
 
   constructor() {
-    this.magicShop = new MagicShop(magicItemTableData, magicItemData, spellData, magicShopData);
-    //this.generateNewMagicItems(6);
+    this.magicShop = new MagicShop();
   }
 
   generateNewMagicItems(roll: number) {

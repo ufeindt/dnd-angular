@@ -28,4 +28,16 @@ export class RandomTable {
   getEntryByIndex(i: number) {
     return JSON.parse(JSON.stringify(this.rows[i]));
   }
+
+  getRows(excludeNames?: string[]) {
+    var outRows: {[key: string]: any}[] = [];
+
+    for (let i = 0; i < this.rows.length; i++) {
+      if (!excludeNames.includes(this.rows[i].name)) {
+        outRows.push(this.rows[i]);
+      }
+    }
+
+    return outRows;
+  }
 }

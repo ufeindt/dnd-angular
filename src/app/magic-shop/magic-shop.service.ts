@@ -4,11 +4,14 @@ import { MagicItem } from './magic-item/magic-item.model';
 import { MagicShop } from './magic-shop.model'
 
 export class MagicShopService {
-  private magicShop: MagicShop;
+  private magicShop: MagicShop = new MagicShop();
   offersChanged = new EventEmitter<{[key: string]: MagicItem[]}>();
 
   constructor() {
-    this.magicShop = new MagicShop();
+  }
+
+  sendUpdate() {
+    this.offersChanged.emit(this.getOffers());
   }
 
   generateNewMagicItems(roll: number) {
@@ -58,20 +61,4 @@ export class MagicShopService {
     this.magicShop.sortOffers();
     this.sendUpdate();
   }
-
-  sendUpdate() {
-    this.offersChanged.emit(this.getOffers());
-  }
-
-  // getRandomItem(name: string) {
-  //   return this.magicShop.getRandomItem(name);
-  // }
-
-  // getItemByRoll(name: string, i: number) {
-  //   return this.magicShop.getItemByRoll(name, i);
-  // }
-
-  // getItemByIndex(name: string, i: number) {
-  //   return this.magicShop.getItemByIndex(name, i);
-  // }
 }

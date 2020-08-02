@@ -2,12 +2,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { MagicShopComponent } from './magic-shop/magic-shop.component';
-import { MagicItemComponent } from './magic-shop/magic-item/magic-item.component';
-import { MagicShopService} from './magic-shop/magic-shop.service';
 import { AppRoutingModule } from './app-routing.module';
-import { SpellBookComponent } from './spell-book/spell-book.component';
 import { HeaderComponent } from './header/header.component';
+import { MagicItemComponent } from './magic-shop/magic-item/magic-item.component';
+import { MagicShopComponent } from './magic-shop/magic-shop.component';
+import { MagicShopService} from './magic-shop/magic-shop.service';
+import { SpellBookComponent } from './spell-book/spell-book.component';
+import { SpellBookService } from './spell-book/spell-book.service';
+import { SpellComponent } from './spell-book/spell/spell.component';
 
 @NgModule({
   declarations: [
@@ -15,13 +17,17 @@ import { HeaderComponent } from './header/header.component';
     MagicShopComponent,
     MagicItemComponent,
     SpellBookComponent,
-    HeaderComponent
+    HeaderComponent,
+    SpellComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [MagicShopService],
+  providers: [
+    MagicShopService,
+    SpellBookService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

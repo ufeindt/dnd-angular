@@ -1,1 +1,66 @@
-<p>spell-book works!</p>
+<div class="row">
+  <div class="col-xs-10">
+    <form class="form-inline">
+      <label class="margin-right" for="roll">Wizard Level:</label>
+      &nbsp;
+      <select class="form-control" name="roll" type="text" #wizardLevelInput>
+        <option *ngFor="let wizardLevel of wizardLevels" [value]="wizardLevel">
+          {{ wizardLevel }}
+        </option>
+      </select>
+      &nbsp;
+      <button class="btn btn-success" type="button" (click)="onGenerateSpellBook()">
+        Generate Spell Book
+      </button>
+      &nbsp;
+      <button class="btn btn-success" type="button" (click)="onFillSpellBook()">
+        Fill Spell Book
+      </button>
+
+    </form>
+    <form class="form-inline">
+      <label class="margin-right" for="roll">Add Spell of Level:</label>
+      &nbsp;
+      <select class="form-control" name="roll" type="text" (change)="onSpellLevelSelect()" #spellLevelInput>
+        <option *ngFor="let spellLevel of spellLevels" [value]="spellLevel" >
+          {{ spellLevel }}
+        </option>
+      </select>
+      &nbsp;
+      <button class="btn btn-success" type="button" (click)="onAddRandomSpell()">
+        Add Random Wizard Spell
+      </button>
+    </form>
+    <form class="form-inline">
+      <label class="margin-right" for="roll">Spell:</label>
+      &nbsp;
+      <select class="form-control" name="roll" type="text" #spellInput>
+        <option *ngFor="let spell of availableSpells; let i = index" [value]="i" >
+          {{ spell.name }}
+        </option>
+      </select>
+      &nbsp;
+      <button class="btn btn-success" type="button" (click)="onAddSpell()">
+        Add
+      </button>
+    </form>
+    <form class="form-inline">
+      <button class="btn btn-success" type="button" (click)="onSort()">
+        Sort
+      </button>
+      &nbsp;
+      <button class="btn btn-danger" type="button" (click)="onClear()">
+        Clear
+      </button>
+    </form>
+    <hr>
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let level of currentLevels">
+        <h3>Level {{ level }} Spell ({{ spells[level].length }} spells)</h3>
+        <app-spell
+          *ngFor="let spell of spells[level]; let k = index"
+          [spell]="spell" [index]="k" [spellLevel]="level"></app-spell>
+      </li>
+    </ul>
+  </div>
+</div>

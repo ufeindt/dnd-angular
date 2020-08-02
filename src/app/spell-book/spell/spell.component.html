@@ -1,0 +1,23 @@
+<ul class="list-group">
+  <a
+    class="list-group-item"
+    style="cursor: pointer"
+  >
+    <a [href]="spell.link">{{ spell.name }}</a>
+    &nbsp;&nbsp;
+    <button
+      class="btn btn-primary"
+      type="button"
+      title="Reroll Spell"
+      (click)="onReroll()">
+      <span>&#9861;</span>
+    </button>
+    <button
+      class="btn btn-danger"
+      type="button"
+      title="Remove Spell"
+      (click)="onRemove()">
+      <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+    </button>
+  </a>
+</ul>

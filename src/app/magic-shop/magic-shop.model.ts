@@ -7,7 +7,7 @@ import { SpellTables } from '../shared/models/spell-tables.model';
 export class MagicShop {
   private magicItemTables: MagicItemTables = new MagicItemTables();
   private magicItems: MagicItemLookup = new MagicItemLookup();
-  private spells: SpellTables = new SpellTables();
+  private spellTables: SpellTables = new SpellTables();
   private magicShopTable: MagicShopTable = new MagicShopTable();
   private rarities: string[] = ['common', 'uncommon', 'rare', 'very rare', 'legendary'];
   offers: {[key: string]: MagicItem[]} = {};
@@ -66,22 +66,7 @@ export class MagicShop {
     this.offers = {};
   }
 
-  generateNewOffers(roll: number) {
-    this.clearOffers();
-    var shopRows = this.magicShopTable.getEntriesByRoll(roll);
-    // var list: MagicItem[] = [];
-    for (let i = 0; i < shopRows.length; i++) {
-      var row = shopRows[i];
-      let n = this.rollDice(row.numDice, row.numSides);
-      console.log(`Rolling ${ n } time(s) on ${ row.tableKey }`);
-      for (let j = 0; j < n; j++) {
-        this.addRandomItem(row.tableKey);
-      }
-    }
-    this.sortOffers();
-  }
-
-  sortOffers() {
+    sortOffers() {
     var compareItemNames = function (mi1: MagicItem, mi2: MagicItem) {
       var mi1Name = mi1.name;
       var mi2Name = mi2.name;
@@ -123,6 +108,20 @@ export class MagicShop {
     for (const rarity in this.offers) {
       this.offers[rarity] = this.offers[rarity].sort(compareItemNames);
     }
+  }
+
+  generateNewOffers(roll: number) {
+    this.clearOffers();
+    var shopRows = this.magicShopTable.getEntriesByRoll(roll);
+    for (let i = 0; i < shopRows.length; i++) {
+      var row = shopRows[i];
+      let n = this.rollDice(row.numDice, row.numSides);
+      console.log(`Rolling ${ n } time(s) on ${ row.tableKey }`);
+      for (let j = 0; j < n; j++) {
+        this.addRandomItem(row.tableKey);
+      }
+    }
+    this.sortOffers();
   }
 
   processItem(item: {[key: string]: any}, tableKey: string, price?: number) {
@@ -175,7 +174,7 @@ export class MagicShop {
         item.out.originalItem = JSON.parse(JSON.stringify(item));
         item.out.rerollType = 'Spell';
 
-        let spell = this.spells.getRandomSpell(item.spellLevel);
+        let spell = this.spellTables.getRandomSpell(item.spellLevel);
         item.out[item.spellNameKey] = spell.name;
         item.out[item.spellLinkKey] = spell.link;
 

@@ -1,23 +1,48 @@
-<ul class="list-group">
-  <a
-    class="list-group-item"
-    style="cursor: pointer"
-  >
-    <a [href]="spell.link">{{ spell.name }}</a>
-    &nbsp;&nbsp;
-    <button
-      class="btn btn-primary"
-      type="button"
-      title="Reroll Spell"
-      (click)="onReroll()">
-      <span>&#9861;</span>
-    </button>
-    <button
-      class="btn btn-danger"
-      type="button"
-      title="Remove Spell"
-      (click)="onRemove()">
-      <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
-    </button>
-  </a>
-</ul>
+<mat-list-item>
+  <div matLine>
+    <div class="spell-left">
+      <a [href]="spell.link">{{ spell.name }}</a>
+    </div>
+    <div class="spell-right">
+      <button
+        mat-icon-button
+        color="primary"
+        aria-label="Reroll Item button"
+        title="Reroll Spell"
+        (click)="onReroll()">
+        <mat-icon>casino</mat-icon>
+      </button>
+      <button
+        mat-icon-button
+        color="warn"
+        aria-label="Delete button"
+        title="Remove Spell"
+        (click)="onRemove()">
+          <mat-icon>delete</mat-icon>
+        </button>
+    </div>
+  </div>
+</mat-list-item>
+<!-- <ul class="list-group">
+     <a
+     class="list-group-item"
+     style="cursor: pointer"
+     >
+     <a [href]="spell.link">{{ spell.name }}</a>
+     &nbsp;&nbsp;
+     <button
+     class="btn btn-primary"
+     type="button"
+     title="Reroll Spell"
+     (click)="onReroll()">
+     <span>&#9861;</span>
+     </button>
+     <button
+     class="btn btn-danger"
+     type="button"
+     title="Remove Spell"
+     (click)="onRemove()">
+     <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+     </button>
+     </a>
+     </ul> -->

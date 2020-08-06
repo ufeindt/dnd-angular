@@ -1,39 +1,52 @@
-<div class="row">
-  <div class="col-xs-10">
-    <form class="form-inline">
-      <label class="margin-right" for="roll">Roll:</label>
-      <input class="form-control" name="roll" type="number" value="11" #rollInput>
-      <button class="btn btn-success" type="button" (click)="onGenerateShop()">
-        Generate Magic Shop
-      </button>
-    </form>
-    <form class="form-inline">
-      <label class="margin-right" for="roll">Add Item from Table:</label>
-      <select class="form-control" name="roll" type="text" #tableKeyInput>
-        <option *ngFor="let tableKey of magicItemTableKeys" [value]="tableKey">
-          {{ tableKey }}
-        </option>
-      </select>
-      <button class="btn btn-success" type="button" (click)="onAddItem()">
-        Add
-      </button>
-    </form>
-    <form class="form-inline">
-      <button class="btn btn-success" type="button" (click)="onSort()">
-        Sort
-      </button>
-      <button class="btn btn-danger" type="button" (click)="onClear()">
-        Clear
-      </button>
-    </form>
-    <hr>
-    <ul class="list-group">
-      <li class="list-group-item" *ngFor="let rarity of currentRarities">
-        <h3>{{ rarity }} ({{ magicItems[rarity].length }} items)</h3>
-        <app-magic-item
-          *ngFor="let magicItem of magicItems[rarity]; let k = index"
-          [magicItem]="magicItem" [index]="k" [listRarity]="rarity"></app-magic-item>
-      </li>
-    </ul>
-  </div>
-</div>
+<mat-form-field class="num-input-div">
+  <mat-label>Roll</mat-label>
+  <input matInput class ="num-input-field" type="number" [(ngModel)]="roll">
+</mat-form-field>
+&nbsp;
+<mat-slider max="36" min="1" step="1" tickInterval="1" [(ngModel)]="roll"></mat-slider>
+&nbsp;
+<!-- <mat-form-field>
+     <mat-label>Roll</mat-label>
+     <input matInput type="number" value="11" #rollInput>
+     </mat-form-field>
+     &nbsp; -->
+<button mat-mini-fab color="primary" title="Generate Magic Shop" (click)="onGenerateShop()">
+  <mat-icon>check</mat-icon>
+</button>
+<br>
+<mat-form-field>
+  <mat-label>Add Item from Table</mat-label>
+  <mat-select type="text" [(ngModel)]="selectedTableKey">
+    <mat-option *ngFor="let tableKey of magicItemTableKeys" [value]="tableKey">
+      {{ tableKey }}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+&nbsp;
+<button mat-mini-fab color="primary" title="Add Random Item" (click)="onAddItem()">
+  <mat-icon>add</mat-icon>
+</button>
+<br>
+<button mat-mini-fab color="primary" title="Sort Items" (click)="onSort()">
+  <mat-icon>sort_by_alpha</mat-icon>
+</button>
+&nbsp;
+<button mat-mini-fab color="warn" title="Clear Shop" (click)="onClear()">
+  <mat-icon>clear</mat-icon>
+</button>
+<hr>
+<mat-expansion-panel *ngFor="let rarity of currentRarities">
+  <mat-expansion-panel-header>
+    <mat-panel-title>
+      {{ rarity }}
+    </mat-panel-title>
+    <mat-panel-description class="align-right">
+      ({{ magicItems[rarity].length }} items)
+    </mat-panel-description>
+  </mat-expansion-panel-header>
+  <mat-list>
+    <app-magic-item
+      *ngFor="let magicItem of magicItems[rarity]; let k = index"
+      [magicItem]="magicItem" [index]="k" [listRarity]="rarity"></app-magic-item>
+  </mat-list>
+</mat-expansion-panel>

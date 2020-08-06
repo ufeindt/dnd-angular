@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 import { Spell } from './spell/spell.model';
 import { SpellBookService } from './spell-book.service';
@@ -9,16 +9,16 @@ import { SpellBookService } from './spell-book.service';
   styleUrls: ['./spell-book.component.css']
 })
 export class SpellBookComponent implements OnInit {
-  @ViewChild('wizardLevelInput', {static: true}) wizardLevelInputRef: ElementRef;
-  @ViewChild('spellLevelInput', {static: true}) spellLevelInputRef: ElementRef;
-  @ViewChild('spellInput', {static: true}) spellInputRef: ElementRef;
+  spellLevel: number = 3;
+  wizardLevel: number = 5;
+  selectedSpell: number = 0;
 
   spells: {[level: number]: Spell[]} = {};
   availableSpells: Spell[] = [];
   currentLevels: number[] = [];
   spellLevels: number[];
   wizardLevels: number[];
-  showSpellLevel: number = 1;
+  showSpellLevel: number = 3;
 
   constructor(private sbService: SpellBookService) {
     this.spellLevels = [];
@@ -57,11 +57,11 @@ export class SpellBookComponent implements OnInit {
   }
 
   onGenerateSpellBook() {
-    this.sbService.generateNewSpellList(this.wizardLevelInputRef.nativeElement.value);
+    this.sbService.generateNewSpellList(this.wizardLevel);
   }
 
   onFillSpellBook() {
-    this.sbService.fillSpellList(this.wizardLevelInputRef.nativeElement.value);
+    this.sbService.fillSpellList(this.wizardLevel);
   }
 
   onSort() {
@@ -73,18 +73,19 @@ export class SpellBookComponent implements OnInit {
   }
 
   onAddRandomSpell() {
-    this.sbService.addRandomSpell(this.spellLevelInputRef.nativeElement.value);
+    this.sbService.addRandomSpell(this.spellLevel);
   }
 
   onAddSpell() {
+    console.log(this.selectedSpell);
     this.sbService.addSpellByIndex(
-      this.spellLevelInputRef.nativeElement.value,
-      this.spellInputRef.nativeElement.value
+      this.spellLevel,
+      this.selectedSpell
     );
   }
 
   onSpellLevelSelect() {
-    this.showSpellLevel = this.spellLevelInputRef.nativeElement.value;
+    this.showSpellLevel = this.spellLevel;
     this.updateAvailableSpells()
   }
 }

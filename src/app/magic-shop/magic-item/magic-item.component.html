@@ -1,40 +1,45 @@
-<ul class="list-group">
-  <a
-    class="list-group-item"
-    style="cursor: pointer"
-  >
-    <a *ngIf="magicItem.prefix" [href]="magicItem.prefixLink">{{ magicItem.prefix }}</a>
-    <a [href]="magicItem.link">{{ magicItem.name }}</a>
-    <a *ngIf="magicItem.suffix" [href]="magicItem.suffixLink">{{ magicItem.suffix }}</a>
-    ({{magicItem.rarity}}, {{magicItem.price}} gp)
-    <button
-      class="btn btn-primary"
-      type="button"
-      title="Reroll {{ magicItem.rerollType }}"
-      (click)="onRerollProperties()"
-      *ngIf="magicItem.rerollType">
-      <span>&#9861;</span> ({{ magicItem.rerollType.toLowerCase() }})
-    </button>
-    <button
-      class="btn btn-primary"
-      type="button"
-      title="Reroll Item from {{ magicItem.tableKey }}"
-      (click)="onRerollItem()">
-      <span>&#9861;</span> (item)
-    </button>
-    <button
-      class="btn btn-primary"
-      type="button"
-      title="Reroll Price"
-      (click)="onRerollPrice()">
-      <span>&#9861;</span> (price)
-    </button>
-    <button
-      class="btn btn-danger"
-      type="button"
-      title="Remove Item"
-      (click)="onRemove()">
-        <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
-    </button>
-  </a>
-</ul>
+<mat-list-item>
+  <div matLine>
+    <div class="magic-item-left">
+      <a *ngIf="magicItem.prefix" [href]="magicItem.prefixLink">{{ magicItem.prefix }}</a>
+      <a [href]="magicItem.link">{{ magicItem.name }}</a>
+      <a *ngIf="magicItem.suffix" [href]="magicItem.suffixLink">{{ magicItem.suffix }}</a>
+      <span> ({{magicItem.rarity}}, {{magicItem.price}} gp)</span>
+    </div>
+    <div class="magic-item-right">
+      <button
+        mat-icon-button
+        color="primary"
+        aria-label="Reroll Property button"
+        title="Reroll {{ magicItem.rerollType }} of {{ magicItem.prefix }}{{ magicItem.name }}{{ magicItem.suffix }}"
+        (click)="onRerollProperties()"
+        *ngIf="magicItem.rerollType">
+        <mat-icon>local_offer</mat-icon>
+      </button>
+      <button
+        mat-icon-button
+        color="primary"
+        aria-label="Reroll Item button"
+        title="Replace {{ magicItem.prefix }}{{ magicItem.name }}{{ magicItem.suffix }} with Random Item from {{ magicItem.tableKey }}"
+        (click)="onRerollItem()">
+        <mat-icon>casino</mat-icon>
+      </button>
+      <button
+        mat-icon-button
+        color="primary"
+        aria-label="Reroll Price button"
+        title="Reroll Price for {{ magicItem.prefix }}{{ magicItem.name }}{{ magicItem.suffix }}"
+        (click)="onRerollPrice()">
+        <mat-icon>attach_money</mat-icon>
+      </button>
+      <button
+        mat-icon-button
+        color="warn"
+        aria-label="Delete button"
+        title="Remove {{ magicItem.prefix }}{{ magicItem.name }}{{ magicItem.suffix }}"
+        (click)="onRemove()">
+          <mat-icon>delete</mat-icon>
+        </button>
+    </div>
+  </div>
+</mat-list-item>

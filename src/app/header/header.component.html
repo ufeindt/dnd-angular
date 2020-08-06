@@ -1,18 +1,25 @@
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" (click)="collapsed = !collapsed">
-        <span class="icon-bar" *ngFor="let iconBar of [1, 2, 3]"></span>
-      </button>
-      <a routerLink="/" class="navbar-brand">DnD App</a>
-    </div>
-  </div>
-  <div class="navbar-collapse" [class.collapse]="collapsed" (window:resize)="collapsed = true">
-    <div class="navbar-default">
-      <ul class="nav navbar-nav">
-        <li routerLinkActive="active"><a routerLink="/magic-shop">Magic Shop</a></li>
-        <li routerLinkActive="active"><a routerLink="/spell-book">Spell Book</a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
+<mat-toolbar>DnD App</mat-toolbar>
+<button mat-button [matMenuTriggerFor]="menu">Menu</button>
+<mat-menu #menu="matMenu">
+  <button mat-menu-item routerLink="/magic-shop" routerLinkActive="active">Magic Shop</button>
+  <button mat-menu-item routerLink="/spell-book" routerLinkActive="active">Spell Book</button>
+</mat-menu>
+
+<!-- <nav class="navbar navbar-default">
+     <div class="container-fluid">
+     <div class="navbar-header">
+     <button type="button" class="navbar-toggle" (click)="collapsed = !collapsed">
+     <span class="icon-bar" *ngFor="let iconBar of [1, 2, 3]"></span>
+     </button>
+     <a routerLink="/" class="navbar-brand">DnD App</a>
+     </div>
+     </div>
+     <div class="navbar-collapse" [class.collapse]="collapsed" (window:resize)="collapsed = true">
+     <div class="navbar-default">
+     <ul class="nav navbar-nav">
+     <li routerLinkActive="active"><a routerLink="/magic-shop">Magic Shop</a></li>
+     <li routerLinkActive="active"><a routerLink="/spell-book">Spell Book</a></li>
+     </ul>
+     </div>
+     </div>
+     </nav> -->

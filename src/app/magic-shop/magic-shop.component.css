@@ -1,0 +1,11 @@
+.align-right {
+    flex-grow: 0;
+}
+
+.num-input-div {
+    width: 80px;
+}
+.num-input-field {
+    width: 3em;
+    float: right;
+}

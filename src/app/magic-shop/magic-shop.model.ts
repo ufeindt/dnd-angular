@@ -163,7 +163,7 @@ export class MagicShop {
         item.out.originalItem = JSON.parse(JSON.stringify(item));
         item.out.rerollType = item.rerollType;
 
-        let newItem = this.magicItemTables.getRandomMagicItem(tableKey);
+        let newItem = this.magicItemTables.getRandomMagicItem(item.tableKey);
         for (const key in newItem) {
           item['out'][key] = newItem[key];
         }

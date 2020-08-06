@@ -9,8 +9,8 @@ import { MagicShopService } from './magic-shop.service';
   styleUrls: ['./magic-shop.component.css']
 })
 export class MagicShopComponent implements OnInit {
-  @ViewChild('rollInput', {static: true}) rollInputRef: ElementRef;
-  @ViewChild('tableKeyInput', {static: true}) tableKeyInputRef: ElementRef;
+  roll: number = 11;
+  selectedTableKey: string;
 
   magicItems: {[key: string]: MagicItem[]} = {}
   magicItemTableKeys: string[];
@@ -42,11 +42,11 @@ export class MagicShopComponent implements OnInit {
   }
 
   onGenerateShop() {
-    this.msService.generateNewMagicItems(this.rollInputRef.nativeElement.value);
+    this.msService.generateNewMagicItems(this.roll);
   }
 
   onAddItem() {
-    this.msService.addItem(this.tableKeyInputRef.nativeElement.value);
+    this.msService.addItem(this.selectedTableKey);
   }
 
   onSort() {

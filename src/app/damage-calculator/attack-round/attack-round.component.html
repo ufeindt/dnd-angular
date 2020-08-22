@@ -1,0 +1,62 @@
+<mat-list>
+  <app-attack
+    *ngFor="let attack of attackRound.attacks; let k = index"
+    [attack]="attack"
+    [numberAttacks]="attackRound.attackNumbers[k]"
+    [index]="k"
+    [indexAttackRound]="index"
+    [showRemoveButton]="attackRound.attacks.length > 1"
+  ></app-attack>
+  <mat-list-item>
+    <div class="label-div">
+      <span>Bonus Dice</span>
+    </div>
+    <mat-form-field class="num-input-div" *ngFor="let nSides of [4, 6, 8, 10, 12]">
+      <mat-label>d{{ nSides }}</mat-label>
+      <input matInput class ="num-input-field" type="number"
+             [(ngModel)]="attackRound.bonusDice['d' + nSides]"
+             (change)="onChangeDice(nSides, false)">
+    </mat-form-field>
+  </mat-list-item>
+  <mat-list-item>
+    <div class="label-div">
+      <span>Once per Turn Dice</span>
+    </div>
+    <mat-form-field class="num-input-div" *ngFor="let nSides of [4, 6, 8, 10, 12]">
+      <mat-label>d{{ nSides }}</mat-label>
+      <input matInput class ="num-input-field" type="number"
+             [(ngModel)]="attackRound.oncePerTurnDice['d' + nSides]"
+             (change)="onChangeDice(nSides, true)">
+    </mat-form-field>
+  </mat-list-item>
+  <mat-list-item>
+      <mat-form-field class="description-input">
+        <mat-label>Description</mat-label>
+        <input matInput
+               [(ngModel)]="description"
+               (change)="onChangeDescription()">
+      </mat-form-field>
+  </mat-list-item>
+  <div matLine>
+    <div class="div-right">
+      <!-- <button mat-icon-button color="primary"
+           title="Add Attack"
+           (click)="onAddAttack()">
+           <mat-icon>add</mat-icon>
+           </button> -->
+      <button mat-icon-button color="primary"
+              title="Duplicate Attack Option"
+              (click)="onDuplicateAttackRound()">
+        <mat-icon>content_copy</mat-icon>
+      </button>
+      <button mat-icon-button
+              *ngIf="showRemoveButton"
+              color="warn"
+              title="Remove Attack Round"
+              (click)="onRemoveAttackRound()">
+        <mat-icon>delete</mat-icon>
+      </button>
+    </div>
+  </div>
+</mat-list>
+

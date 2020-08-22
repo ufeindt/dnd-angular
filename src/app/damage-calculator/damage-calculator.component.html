@@ -1,0 +1,44 @@
+<mat-form-field style="width:100%;">
+  <mat-label>Select a Preset: </mat-label>
+  <mat-select type="text" [(ngModel)]="selectedPreset">
+    <mat-option
+      *ngFor="let presetName of presetNames; let k = index"
+      [value]="k"
+      (click)="onPresetSelection()">
+      {{ presetName }}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+<mat-expansion-panel
+  *ngFor="let attackRound of damageCalculator.attackRounds; let k = index"
+  [expanded]="panelsExpanded[k]"
+  (opened)="onPanelOpen(k)"
+  (closed)="onPanelClose(k)">
+  <mat-expansion-panel-header>
+    <mat-panel-title>
+      <div class="stat-color" style="background-color:{{ statColors[k] }};"></div>
+      Attack Option #{{ k+1 }}
+    </mat-panel-title>
+    <mat-panel-description class="align-right">
+      {{ descriptions[k] }}
+    </mat-panel-description>
+  </mat-expansion-panel-header>
+  <app-attack-round
+    [attackRound]="attackRound"
+    [index]="k"
+    [showRemoveButton]="damageCalculator.attackRounds.length > 1"
+    [description]="descriptions[k]"
+  ></app-attack-round>
+</mat-expansion-panel>
+<button mat-icon-button
+        *ngIf="damageCalculator.attackRounds.length < statColors.length"
+        color="primary"
+        style="float:right;"
+        title="Add Attack Option"
+        (click)="onAddAttackRound()">
+  <mat-icon>add</mat-icon>
+</button>
+<app-damage-stats
+  [data]="damageCalculator.data"
+  [statColors]="statColors">
+</app-damage-stats>

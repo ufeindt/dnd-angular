@@ -1,0 +1,63 @@
+<mat-list-item>
+  <div class="label-div">
+    <span>Attack #{{ index + 1 }}</span>
+  </div>
+  &nbsp;
+  <mat-form-field class="num-input-div" *ngFor="let nSides of [4, 6, 8, 10, 12]">
+    <mat-label>d{{ nSides }}</mat-label>
+    <input matInput class ="num-input-field" type="number"
+           [(ngModel)]="attack.damageDice['d' + nSides]"
+           (change)="onChangeDice(nSides)">
+  </mat-form-field>
+  <mat-form-field class="num-input-div">
+    <mat-label>Atk</mat-label>
+    <input matInput class ="num-input-field" type="number"
+           [(ngModel)]="attack.attackModifier"
+           (change)="onChangeMod()">
+  </mat-form-field>
+  <mat-form-field class="num-input-div">
+    <mat-label>Dmg</mat-label>
+    <input matInput class ="num-input-field" type="number"
+           [(ngModel)]="attack.damageBonus"
+           (change)="onChangeMod()">
+  </mat-form-field>
+  <mat-form-field class="num-input-div">
+    <mat-label>#Atk</mat-label>
+    <input matInput class ="num-input-field" type="number"
+           [(ngModel)]="numberAttacks"
+           (change)="onChangeNumberAttacks()">
+  </mat-form-field>
+  <mat-checkbox
+    [(ngModel)]="attack.advantage"
+    (change)="onChangeAdvantage()">
+    Adv.
+  </mat-checkbox>
+  &nbsp;
+  <mat-checkbox
+    [(ngModel)]="attack.disadvantage"
+    (change)="onChangeDisadvantage()">
+    Disadv.
+  </mat-checkbox>
+  &nbsp;
+  <mat-checkbox
+     matTooltip ="Great Weapon Fighting - reroll 1s and 2s on weapon dice once if holding the weapon with both hands (must be versatile or two-handed weapon)"
+    [(ngModel)]="attack.greatWeaponFighting"
+    (change)="onChangeGWF()">
+    <span>GWF</span>
+  </mat-checkbox>
+  <button mat-icon-button
+          style="float: right;"
+          color="primary"
+          title="Duplicate Attack"
+          (click)="onDuplicateAttack()">
+    <mat-icon>content_copy</mat-icon>
+  </button>
+  <button mat-icon-button
+          *ngIf="showRemoveButton"
+          style="float: right;"
+          color="warn"
+          title="Remove Attack"
+          (click)="onRemoveAttack()">
+    <mat-icon>delete</mat-icon>
+  </button>
+</mat-list-item>

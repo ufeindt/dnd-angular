@@ -22,6 +22,13 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatSelectModule } from '@angular/material/select';
 import { MatInputModule } from '@angular/material/input';
 import { MatSliderModule } from '@angular/material/slider';
+import { MatCheckboxModule } from '@angular/material/checkbox';
+import { MatTooltipModule } from '@angular/material/tooltip';
+import { DamageCalculatorComponent } from './damage-calculator/damage-calculator.component';
+import { AttackRoundComponent } from './damage-calculator/attack-round/attack-round.component';
+import { AttackComponent } from './damage-calculator/attack-round/attack/attack.component';
+import { DamageStatsComponent } from './damage-calculator/damage-stats/damage-stats.component';
+import { DamageCalculatorService } from './damage-calculator/damage-calculator.service';
 
 @NgModule({
   declarations: [
@@ -30,7 +37,11 @@ import { MatSliderModule } from '@angular/material/slider';
     MagicItemComponent,
     SpellBookComponent,
     HeaderComponent,
-    SpellComponent
+    SpellComponent,
+    DamageCalculatorComponent,
+    AttackRoundComponent,
+    AttackComponent,
+    DamageStatsComponent
   ],
   imports: [
     BrowserModule,
@@ -46,11 +57,14 @@ import { MatSliderModule } from '@angular/material/slider';
     MatFormFieldModule,
     MatSelectModule,
     MatInputModule,
-    MatSliderModule
+    MatSliderModule,
+    MatCheckboxModule,
+    MatTooltipModule
   ],
   providers: [
     MagicShopService,
-    SpellBookService
+    SpellBookService,
+    DamageCalculatorService
   ],
   bootstrap: [AppComponent]
 })

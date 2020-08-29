@@ -1,17 +1,27 @@
 import { EventEmitter } from '@angular/core';
 
 import { MagicItem } from './magic-item/magic-item.model';
-import { MagicShop } from './magic-shop.model'
+import { MagicShop } from './magic-shop.model';
+import { RandomPrices } from '../shared/models/random-price-table.model';
 
 export class MagicShopService {
   private magicShop: MagicShop = new MagicShop();
   offersChanged = new EventEmitter<{[key: string]: MagicItem[]}>();
+  presetChanged = new EventEmitter<{
+    magicShopTableRows: {[key: string]: any}[],
+    randomPriceTableRows: RandomPrices
+  }>();
 
   constructor() {
   }
 
   sendUpdate() {
     this.offersChanged.emit(this.getOffers());
+  }
+
+  setPreset(index: number, ignoreMaxRoll: boolean) {
+    this.magicShop.setPreset(index, ignoreMaxRoll);
+    this.presetChanged.emit(this.magicShop.getCurrentPreset());
   }
 
   generateNewMagicItems(roll: number) {

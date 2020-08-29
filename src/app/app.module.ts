@@ -24,6 +24,7 @@ import { MatInputModule } from '@angular/material/input';
 import { MatSliderModule } from '@angular/material/slider';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatTooltipModule } from '@angular/material/tooltip';
+import { MatTableModule } from '@angular/material/table';
 import { DamageCalculatorComponent } from './damage-calculator/damage-calculator.component';
 import { AttackRoundComponent } from './damage-calculator/attack-round/attack-round.component';
 import { AttackComponent } from './damage-calculator/attack-round/attack/attack.component';
@@ -59,7 +60,8 @@ import { DamageCalculatorService } from './damage-calculator/damage-calculator.s
     MatInputModule,
     MatSliderModule,
     MatCheckboxModule,
-    MatTooltipModule
+    MatTooltipModule,
+    MatTableModule
   ],
   providers: [
     MagicShopService,

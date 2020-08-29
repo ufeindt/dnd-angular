@@ -1,72 +1,156 @@
 [
-  {
-    "rowType": "table",
-    "tableKey": "Common Magic Items",
-    "minRoll": 1,
-    "numDice": 1,
-    "numSides": 8
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table A",
-    "minRoll": 1,
-    "numDice": 1,
-    "numSides": 6
-  },
+  [
     {
-    "rowType": "table",
-    "tableKey": "Magic Item Table B",
-    "minRoll": 2,
-    "numDice": 1,
-    "numSides": 4
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table C",
-    "minRoll":6,
-    "numDice": 1,
-    "numSides": 4
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table D",
-    "minRoll": 11,
-    "numDice": 1,
-    "numSides": 4
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table E",
-    "minRoll": 16,
-    "numDice": 1,
-    "numSides": 4
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table F",
-    "minRoll": 21,
-    "numDice": 1,
-    "numSides": 4
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table G",
-    "minRoll": 26,
-    "numDice": 1,
-    "numSides": 4
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table H",
-    "minRoll": 31,
-    "numDice": 1,
-    "numSides": 4
-  },
-  {
-    "rowType": "table",
-    "tableKey": "Magic Item Table I",
-    "minRoll": 36,
-    "numDice": 1,
-    "numSides": 4
-  } 
+      "rowType": "table",
+      "tableKey": "Magic Item Table A",
+      "minRoll": 1,
+      "maxRoll": 5,
+      "numDice": 1,
+      "numSides": 6
+    },
+      {
+      "rowType": "table",
+      "tableKey": "Magic Item Table B",
+      "minRoll": 6,
+      "maxRoll": 10,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table C",
+      "minRoll": 11,
+      "maxRoll": 15,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table D",
+      "minRoll": 16,
+      "maxRoll": 20,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table E",
+      "minRoll": 21,
+      "maxRoll": 25,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table F",
+      "minRoll": 26,
+      "maxRoll": 30,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table G",
+      "minRoll": 31,
+      "maxRoll": 35,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table H",
+      "minRoll": 36,
+      "maxRoll": 40,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table I",
+      "minRoll": 41,
+      "numDice": 1,
+      "numSides": 4
+    }
+  ],
+[
+    {
+      "rowType": "table",
+      "tableKey": "Common Magic Items",
+      "minRoll": 1,
+      "maxRoll": 5,
+      "numDice": 1,
+      "numSides": 8
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table A",
+      "minRoll": 1,
+      "maxRoll": 5,
+      "numDice": 1,
+      "numSides": 6
+    },
+      {
+      "rowType": "table",
+      "tableKey": "Magic Item Table B",
+      "minRoll": 2,
+      "maxRoll": 5,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table C",
+      "minRoll":6,
+      "maxRoll": 10,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table D",
+      "minRoll": 11,
+      "maxRoll": 16,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table E",
+      "minRoll": 16,
+      "maxRoll": 20,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table F",
+      "minRoll": 21,
+      "maxRoll": 26,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table G",
+      "minRoll": 26,
+      "maxRoll": 30,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table H",
+      "minRoll": 31,
+      "maxRoll": 35,
+      "numDice": 1,
+      "numSides": 4
+    },
+    {
+      "rowType": "table",
+      "tableKey": "Magic Item Table I",
+      "minRoll": 36,
+      "numDice": 1,
+      "numSides": 4
+    }
+  ]
 ]

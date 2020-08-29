@@ -19,7 +19,7 @@ export class DamageCalculatorComponent implements OnInit {
   @Input() selectedPreset: number;
   presetNames: string[] = [
     'Level 4 Crossbow Rogue: Take Crossbow Expert or improve Dexterity?',
-    'Level 9 Crossbow Rogue: When should I using Sharpshooter?',
+    'Level 9 Crossbow Rogue: When should I be using Sharpshooter?',
     'Level 5 Ranger Sharpshooter',
     'Level 5 Reckless Barbarbian Great Weapon Master'
   ];

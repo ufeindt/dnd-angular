@@ -3,16 +3,39 @@ import { MagicItemTables } from '../shared/models/magic-item-tables.model';
 import { MagicItemLookup } from '../shared/models/magic-item-lookup.model';
 import { MagicShopTable } from '../shared/models/magic-shop-table.model';
 import { SpellTables } from '../shared/models/spell-tables.model';
+import { RandomPriceTable } from '../shared/models/random-price-table.model';
+import { rollDice } from '../shared/functions/roll-dice';
 
 export class MagicShop {
   private magicItemTables: MagicItemTables = new MagicItemTables();
   private magicItems: MagicItemLookup = new MagicItemLookup();
   private spellTables: SpellTables = new SpellTables();
   private magicShopTable: MagicShopTable = new MagicShopTable();
+  private randomPriceTable: RandomPriceTable = new RandomPriceTable();
   private rarities: string[] = ['common', 'uncommon', 'rare', 'very rare', 'legendary'];
   offers: {[key: string]: MagicItem[]} = {};
 
   constructor() {
+  }
+
+  getCurrentPreset() {
+    return {
+      magicShopTableRows: this.magicShopTable.getRows(),
+      randomPriceTableRows: this.randomPriceTable.getRows()
+    };
+  }
+
+  setPreset(index: number, ignoreMaxRoll: boolean) {
+    this.setRandomPriceTablePreset(index);
+    this.setMagicShopTablePreset(index, ignoreMaxRoll);
+  }
+
+  setRandomPriceTablePreset(index: number) {
+    this.randomPriceTable.setPreset(index);
+  }
+
+  setMagicShopTablePreset(index: number, ignoreMaxRoll: boolean) {
+    this.magicShopTable.setPreset(index, ignoreMaxRoll);
   }
 
   getRandomItem(tableKey: string) {
@@ -66,7 +89,7 @@ export class MagicShop {
     this.offers = {};
   }
 
-    sortOffers() {
+  sortOffers() {
     var compareItemNames = function (mi1: MagicItem, mi2: MagicItem) {
       var mi1Name = mi1.name;
       var mi2Name = mi2.name;
@@ -115,7 +138,7 @@ export class MagicShop {
     var shopRows = this.magicShopTable.getEntriesByRoll(roll);
     for (let i = 0; i < shopRows.length; i++) {
       var row = shopRows[i];
-      let n = this.rollDice(row.numDice, row.numSides);
+      let n = rollDice(row.numDice, row.numSides);
       console.log(`Rolling ${ n } time(s) on ${ row.tableKey }`);
       for (let j = 0; j < n; j++) {
         this.addRandomItem(row.tableKey);
@@ -183,42 +206,7 @@ export class MagicShop {
     }
   }
 
-  rollDice(numDice: number, numSides: number) {
-    var result: number = 0;
-    for (let i = 0; i < numDice ; i++) {
-      result += Math.floor(Math.random() * numSides + 1);
-    }
-    return result;
-  }
-
   randomPrice(rarity: string, consumable: boolean) {
-    var price: number = 0;
-    switch(rarity) {
-      case 'common': {
-        price =  this.rollDice(2, 4) * 10;
-        break;
-      }
-      case 'uncommon': {
-        price = (this.rollDice(1, 6) + 3) * 100;
-        break;
-      }
-      case 'rare': {
-        price = (this.rollDice(3, 6) - 1) * 1000;
-        break;
-      }
-      case 'very rare': {
-        price = (this.rollDice(2, 4) + 1) * 10000;
-        break;
-      }
-      case 'legendary': {
-        price = (this.rollDice(2, 4) + 4) * 25000;
-        break;
-      }
-    }
-    if (consumable) {
-      return price / 2;
-    } else {
-      return price;
-    }
+    return this.randomPriceTable.randomPrice(rarity, consumable);
   }
 }

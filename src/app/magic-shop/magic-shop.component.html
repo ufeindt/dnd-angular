@@ -1,9 +1,27 @@
+<mat-form-field>
+  <mat-label>Magic Shop Table</mat-label>
+  <mat-select type="text" [(ngModel)]="magicShopPreset">
+    <mat-option
+      *ngFor="let presetName of magicShopPresetNames; let k = index"
+      [value]="k"
+      (click)="onChangeMagicShopTablePreset()">
+      {{ presetName }}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+<br>
+<mat-checkbox
+  [(ngModel)]="magicShopTablesIncludeLowerRolls"
+  (change)="onChangeMagicShopTablePreset()">
+  Include all rows that are lower or equal
+</mat-checkbox>
+<br>
 <mat-form-field class="num-input-div">
   <mat-label>Roll</mat-label>
   <input matInput class ="num-input-field" type="number" [(ngModel)]="roll">
 </mat-form-field>
 &nbsp;
-<mat-slider max="36" min="1" step="1" tickInterval="1" [(ngModel)]="roll"></mat-slider>
+<mat-slider [max]="maxRoll" min="1" step="1" tickInterval="1" [(ngModel)]="roll"></mat-slider>
 &nbsp;
 <button mat-mini-fab color="primary" title="Generate Magic Shop" (click)="onGenerateShop()">
   <mat-icon>check</mat-icon>
@@ -44,4 +62,39 @@
       *ngFor="let magicItem of magicItems[rarity]; let k = index"
       [magicItem]="magicItem" [index]="k" [listRarity]="rarity"></app-magic-item>
   </mat-list>
+</mat-expansion-panel>
+<hr *ngIf="currentRarities.length > 0">
+<mat-expansion-panel>
+  <mat-expansion-panel-header>
+    <mat-panel-title>
+      Show Tables
+    </mat-panel-title>
+  </mat-expansion-panel-header>
+  <h3>Magic Shop Table</h3>
+  <mat-table [dataSource]="magicShopTableDisplay" class="mat-elevation-z8">
+    <ng-container matColumnDef="checkTotal">
+      <mat-header-cell *matHeaderCellDef> Check Total </mat-header-cell>
+      <mat-cell *matCellDef="let row" [innerHTML]="row.rollResultRange"></mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="itemsAvailable">
+      <mat-header-cell *matHeaderCellDef> Items Available </mat-header-cell>
+      <mat-cell *matCellDef="let row" [innerHTML]="row.instructions"></mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="['checkTotal', 'itemsAvailable']"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: ['checkTotal', 'itemsAvailable'];"></mat-row>
+  </mat-table>
+  <h3>Random Price Table</h3>
+  <mat-table [dataSource]="randomPriceTableDisplay" class="mat-elevation-z8">
+    <ng-container matColumnDef="rarity">
+      <mat-header-cell *matHeaderCellDef> rarity </mat-header-cell>
+      <mat-cell *matCellDef="let row" [innerHTML]="row.rarity"></mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="price">
+      <mat-header-cell *matHeaderCellDef> Asking Price* </mat-header-cell>
+      <mat-cell *matCellDef="let row" [innerHTML]="row.instructions"></mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="['rarity', 'price']"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: ['rarity', 'price'];"></mat-row>
+  </mat-table>
+  <p>*Halved for a consumable item like a potion or scroll</p>
 </mat-expansion-panel>
